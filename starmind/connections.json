@@ -153,7 +153,7 @@
       "lon": -99.2018818,
       "location": "Tlalnepantla de Baz, MEXICO"
     },
-    "weight": 22
+    "weight": 10
   },
   {
     "source": {
@@ -400,7 +400,7 @@
       "lon": 6.6316038,
       "location": "Central Europe Only, SWITZERLAND"
     },
-    "weight": 1
+    "weight": 10
   },
   {
     "source": {
@@ -413,7 +413,7 @@
       "lon": -1.8934623,
       "location": "Birmingham, UNITED KINGDOM"
     },
-    "weight": 65
+    "weight": 10
   },
   {
     "source": {
@@ -426,7 +426,7 @@
       "lon": -74.360771,
       "location": "East Hanover, UNITED STATES"
     },
-    "weight": 11
+    "weight": 10
   },
   {
     "source": {
@@ -959,7 +959,7 @@
       "lon": -0.9690884,
       "location": "Reading, UNITED KINGDOM"
     },
-    "weight": 6
+    "weight": 10
   },
   {
     "source": {
@@ -1128,7 +1128,7 @@
       "lon": -99.968972,
       "location": "Nuevo Leon, MEXICO"
     },
-    "weight": 1
+    "weight": 10
   },
   {
     "source": {
@@ -1141,7 +1141,7 @@
       "lon": 17.1068781,
       "location": "Bratislava, SLOVAKIA"
     },
-    "weight": 20
+    "weight": 10
   },
   {
     "source": {
@@ -1427,7 +1427,7 @@
       "lon": 11.622189,
       "location": "Unterhaching, GERMANY"
     },
-    "weight": 1
+    "weight": 10
   },
   {
     "source": {
@@ -1622,7 +1622,7 @@
       "lon": 72.9646011,
       "location": "Thane, INDIA"
     },
-    "weight": 2
+    "weight": 10
   },
   {
     "source": {
@@ -2636,7 +2636,7 @@
       "lon": -84.0797794,
       "location": "San Jose, COSTA RICA"
     },
-    "weight": 4
+    "weight": 10
   },
   {
     "source": {
@@ -2753,7 +2753,7 @@
       "lon": 116.9769588,
       "location": "Suzhou, CHINA"
     },
-    "weight": 3
+    "weight": 10
   },
   {
     "source": {
@@ -3143,7 +3143,7 @@
       "lon": -49.2732515,
       "location": "Curitiba, BRAZIL"
     },
-    "weight": 20
+    "weight": 10
   },
   {
     "source": {
@@ -3468,7 +3468,7 @@
       "lon": 14.4204598,
       "location": "Prague, CZECH REPUBLIC"
     },
-    "weight": 8
+    "weight": 10
   },
   {
     "source": {
@@ -3546,7 +3546,7 @@
       "lon": 73.7162582,
       "location": "Induri, INDIA"
     },
-    "weight": 1
+    "weight": 10
   },
   {
     "source": {
@@ -3806,7 +3806,7 @@
       "lon": 21.0084924,
       "location": "Warszawa, POLAND"
     },
-    "weight": 1
+    "weight": 10
   },
   {
     "source": {
@@ -4417,7 +4417,7 @@
       "lon": -7.615478,
       "location": "Casablanca, MOROCCO"
     },
-    "weight": 1
+    "weight": 10
   },
   {
     "source": {
@@ -4781,7 +4781,7 @@
       "lon": 50.6556183,
       "location": "Al Hidd, BAHRAIN"
     },
-    "weight": 2
+    "weight": 10
   },
   {
     "source": {
