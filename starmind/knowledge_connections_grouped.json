@@ -1,217 +1,49 @@
 {
-  "ES": [
+  "BH": [
     {
-      "country": "ES",
+      "country": "BH",
       "source": {
-        "country": "ES",
-        "countryName": "SPAIN",
-        "lat": 40.4166909,
-        "lon": -3.7003454,
-        "location": "Madrid, SPAIN"
-      },
-      "destination": {
-        "country": "CH",
-        "countryName": "SWITZERLAND",
-        "lat": 47.3878126,
-        "lon": 8.5271038,
-        "location": "Zurich, SWITZERLAND"
-      },
-      "weight": 1
-    },
-    {
-      "country": "ES",
-      "source": {
-        "country": "ES",
-        "countryName": "SPAIN",
-        "lat": 40.4166909,
-        "lon": -3.7003454,
-        "location": "Madrid, SPAIN"
-      },
-      "destination": {
-        "country": "GB",
-        "countryName": "UNITED KINGDOM",
-        "lat": 51.455041,
-        "lon": -0.9690884,
-        "location": "Reading, UNITED KINGDOM"
-      },
-      "weight": 1
-    }
-  ],
-  "GB": [
-    {
-      "country": "GB",
-      "source": {
-        "country": "GB",
-        "countryName": "UNITED KINGDOM",
-        "lat": 52.4828994,
-        "lon": -1.8934623,
-        "location": "Birmingham, UNITED KINGDOM"
-      },
-      "destination": {
-        "country": "GB",
-        "countryName": "UNITED KINGDOM",
-        "lat": 51.455041,
-        "lon": -0.9690884,
-        "location": "Reading, UNITED KINGDOM"
-      },
-      "weight": 1
-    },
-    {
-      "country": "GB",
-      "source": {
-        "country": "GB",
-        "countryName": "UNITED KINGDOM",
-        "lat": 52.4828994,
-        "lon": -1.8934623,
-        "location": "Birmingham, UNITED KINGDOM"
-      },
-      "destination": {
-        "country": "US",
-        "countryName": "UNITED STATES",
-        "lat": 40.825873,
-        "lon": -74.360771,
-        "location": "East Hanover, UNITED STATES"
-      },
-      "weight": 1
-    },
-    {
-      "country": "GB",
-      "source": {
-        "country": "GB",
-        "countryName": "UNITED KINGDOM",
-        "lat": 52.4828994,
-        "lon": -1.8934623,
-        "location": "Birmingham, UNITED KINGDOM"
-      },
-      "destination": {
-        "country": "GB",
-        "countryName": "UNITED KINGDOM",
-        "lat": 52.4828994,
-        "lon": -1.8934623,
-        "location": "Birmingham, UNITED KINGDOM"
-      },
-      "weight": 10
-    },
-    {
-      "country": "GB",
-      "source": {
-        "country": "GB",
-        "countryName": "UNITED KINGDOM",
-        "lat": 52.4828994,
-        "lon": -1.8934623,
-        "location": "Birmingham, UNITED KINGDOM"
-      },
-      "destination": {
-        "country": "CA",
-        "countryName": "CANADA",
-        "lat": 43.6518927,
-        "lon": -79.381713,
-        "location": "Toronto, CANADA"
-      },
-      "weight": 1
-    },
-    {
-      "country": "GB",
-      "source": {
-        "country": "GB",
-        "countryName": "UNITED KINGDOM",
-        "lat": 52.4828994,
-        "lon": -1.8934623,
-        "location": "Birmingham, UNITED KINGDOM"
-      },
-      "destination": {
-        "country": "IN",
-        "countryName": "INDIA",
-        "lat": 19.1997061,
-        "lon": 72.9646011,
-        "location": "Thane, INDIA"
-      },
-      "weight": 1
-    }
-  ],
-  "US": [
-    {
-      "country": "US",
-      "source": {
-        "country": "US",
-        "countryName": "UNITED STATES",
-        "lat": 40.825873,
-        "lon": -74.360771,
-        "location": "East Hanover, USA, UNITED STATES"
-      },
-      "destination": {
-        "country": "SG",
-        "countryName": "SINGAPORE",
-        "lat": 1.2894365,
-        "lon": 103.8499802,
-        "location": "Singapore, SINGAPORE"
-      },
-      "weight": 1
-    },
-    {
-      "country": "US",
-      "source": {
-        "country": "US",
-        "countryName": "UNITED STATES",
-        "lat": 40.825873,
-        "lon": -74.360771,
-        "location": "East Hanover, UNITED STATES"
-      },
-      "destination": {
-        "country": "CN",
-        "countryName": "CHINA",
-        "lat": 33.6375983,
-        "lon": 116.9769588,
-        "location": "Suzhou, CHINA"
-      },
-      "weight": 3
-    },
-    {
-      "country": "US",
-      "source": {
-        "country": "US",
-        "countryName": "UNITED STATES",
-        "lat": 40.825873,
-        "lon": -74.360771,
-        "location": "East Hanover, UNITED STATES"
-      },
-      "destination": {
-        "country": "US",
-        "countryName": "UNITED STATES",
-        "lat": 40.825873,
-        "lon": -74.360771,
-        "location": "East Hanover, UNITED STATES"
-      },
-      "weight": 10
-    },
-    {
-      "country": "US",
-      "source": {
-        "country": "US",
-        "countryName": "UNITED STATES",
-        "lat": 40.825873,
-        "lon": -74.360771,
-        "location": "East Hanover, USA, UNITED STATES"
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
       },
       "destination": {
         "country": "BR",
         "countryName": "BRAZIL",
-        "lat": -25.4283563,
-        "lon": -49.2732515,
-        "location": "Curitiba, BRAZIL"
+        "lat": -23.5486657,
+        "lon": -46.6382522,
+        "location": "Sao Paulo, BRAZIL"
+      },
+      "weight": 4
+    },
+    {
+      "country": "BH",
+      "source": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "destination": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 49.9767389,
+        "lon": 17.8620139,
+        "location": "Opava - Vavrovice, CZECH REPUBLIC"
       },
       "weight": 1
-    }
-  ],
-  "FR": [
+    },
     {
-      "country": "FR",
+      "country": "BH",
       "source": {
-        "country": "FR",
-        "countryName": "FRANCE",
-        "lat": 48.7308001,
-        "lon": 2.1742453,
-        "location": "Saclay, FRANCE"
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
       },
       "destination": {
         "country": "US",
@@ -220,83 +52,220 @@
         "lon": -74.360771,
         "location": "East Hanover, UNITED STATES"
       },
-      "weight": 2
-    }
-  ],
-  "SG": [
+      "weight": 3
+    },
     {
-      "country": "SG",
+      "country": "BH",
       "source": {
-        "country": "SG",
-        "countryName": "SINGAPORE",
-        "lat": 1.2894365,
-        "lon": 103.8499802,
-        "location": "Singapore, SINGAPORE"
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
       },
       "destination": {
-        "country": "SG",
-        "countryName": "SINGAPORE",
-        "lat": 1.2894365,
-        "lon": 103.8499802,
-        "location": "Singapore, SINGAPORE"
-      },
-      "weight": 10
-    }
-  ],
-  "AU": [
-    {
-      "country": "AU",
-      "source": {
-        "country": "AU",
-        "countryName": "AUSTRALIA",
-        "lat": -35.8683286,
-        "lon": 146.241889,
-        "location": "Ringwood, AUSTRALIA"
-      },
-      "destination": {
-        "country": "SG",
-        "countryName": "SINGAPORE",
-        "lat": 1.2894365,
-        "lon": 103.8499802,
-        "location": "Singapore, SINGAPORE"
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -29.799549,
+        "lon": -50.044518,
+        "location": "LA, BRAZIL"
       },
       "weight": 1
     },
     {
-      "country": "AU",
+      "country": "BH",
       "source": {
-        "country": "AU",
-        "countryName": "AUSTRALIA",
-        "lat": -35.8683286,
-        "lon": 146.241889,
-        "location": "Ringwood, AUSTRALIA"
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
       },
       "destination": {
-        "country": "CN",
-        "countryName": "CHINA",
-        "lat": 33.6375983,
-        "lon": 116.9769588,
-        "location": "Suzhou, CHINA"
+        "country": "EG",
+        "countryName": "EGYPT",
+        "lat": 30.0434879,
+        "lon": 31.2352919,
+        "location": "Cairo, EGYPT"
+      },
+      "weight": 5
+    },
+    {
+      "country": "BH",
+      "source": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "destination": {
+        "country": "PE",
+        "countryName": "PERU",
+        "lat": -12.0579766,
+        "lon": -77.037134,
+        "location": "Lima, PERU"
+      },
+      "weight": 2
+    },
+    {
+      "country": "BH",
+      "source": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "weight": 5
+    },
+    {
+      "country": "BH",
+      "source": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 52.62334,
+        "lon": 20.3755938,
+        "location": "Plonsk, POLAND"
       },
       "weight": 1
-    }
-  ],
-  "CA": [
+    },
     {
-      "country": "CA",
+      "country": "BH",
       "source": {
-        "country": "CA",
-        "countryName": "CANADA",
-        "lat": 43.6518927,
-        "lon": -79.381713,
-        "location": "Toronto, CANADA"
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
       },
       "destination": {
-        "country": "CA",
-        "countryName": "CANADA",
-        "lat": 43.6518927,
-        "lon": -79.381713,
-        "location": "Toronto, CANADA"
+        "country": "LT",
+        "countryName": "LITHUANIA",
+        "lat": 54.8968721,
+        "lon": 23.8924264,
+        "location": "Kaunas, LITHUANIA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "BH",
+      "source": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "destination": {
+        "country": "BG",
+        "countryName": "BULGARIA",
+        "lat": 42.6964917,
+        "lon": 23.3260106,
+        "location": "Sofia, BULGARIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BH",
+      "source": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 51.5380493,
+        "lon": 20.0085251,
+        "location": "Tomaszow Mazowiecki, POLAND"
+      },
+      "weight": 3
+    },
+    {
+      "country": "BH",
+      "source": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "destination": {
+        "country": "",
+        "lat": -37.8153434,
+        "lon": 144.9632276,
+        "location": "Melbourne, undefined"
+      },
+      "weight": 2
+    },
+    {
+      "country": "BH",
+      "source": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "destination": {
+        "country": "AR",
+        "countryName": "ARGENTINA",
+        "lat": -34.697644,
+        "lon": -58.336019,
+        "location": "Thames, ARGENTINA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BH",
+      "source": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "destination": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.2921162,
+        "lon": -99.6557812,
+        "location": "Toluca de Lerdo, MEXICO"
+      },
+      "weight": 2
+    },
+    {
+      "country": "BH",
+      "source": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "destination": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
       },
       "weight": 10
     }
@@ -312,6 +281,617 @@
         "location": "Curitiba, BRAZIL"
       },
       "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 18.9690472,
+        "lon": 72.8211807,
+        "location": "Mumbai, INDIA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "EG",
+        "countryName": "EGYPT",
+        "lat": 30.9047024,
+        "lon": 29.5538919,
+        "location": "Borg El Arab, EGYPT"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "weight": 11
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -23.5486657,
+        "lon": -46.6382522,
+        "location": "Sao Paulo, BRAZIL"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 26.3357326,
+        "lon": 78.3228882,
+        "location": "Malanpur, INDIA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.703966,
+        "lon": -79.341178,
+        "location": "East York, CANADA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 26.3357326,
+        "lon": 78.3228882,
+        "location": "Malanpur, INDIA"
+      },
+      "weight": 8
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "ZA",
+        "countryName": "SOUTH AFRICA",
+        "lat": -26.201452,
+        "lon": 28.045488,
+        "location": "Johannesburg, SOUTH AFRICA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 51.0487909,
+        "lon": 16.9655796,
+        "location": "Bielany Wroclawskie, Kobierzyce, POLAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -23.5486657,
+        "lon": -46.6382522,
+        "location": "Sao Paulo, BRAZIL"
+      },
+      "destination": {
+        "country": "RO",
+        "countryName": "ROMANIA",
+        "lat": 44.3744344,
+        "lon": 25.9490935,
+        "location": "Com. Clinceni, ROMANIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -8.1143608,
+        "lon": -35.2857568,
+        "location": "Vitoria De Santo Antao, BRAZIL"
+      },
+      "destination": {
+        "country": "CH",
+        "countryName": "SWITZERLAND",
+        "lat": 47.4225206,
+        "lon": 8.56099,
+        "location": "Glattpark, SWITZERLAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "weight": 5
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "PE",
+        "countryName": "PERU",
+        "lat": -12.0579766,
+        "lon": -77.037134,
+        "location": "Lima, PERU"
+      },
+      "weight": 2
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "SK",
+        "countryName": "SLOVAKIA",
+        "lat": 35.670018,
+        "lon": -95.158994,
+        "location": "Central Europe Only, SLOVAKIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "PT",
+        "countryName": "PORTUGAL",
+        "lat": 38.729098,
+        "lon": -9.220154,
+        "location": "Alfragide, PORTUGAL"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -23.5486657,
+        "lon": -46.6382522,
+        "location": "Sao Paulo, BRAZIL"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "weight": 4
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -23.5486657,
+        "lon": -46.6382522,
+        "location": "Sao Paulo, BRAZIL"
+      },
+      "destination": {
+        "country": "EG",
+        "countryName": "EGYPT",
+        "lat": 30.0434879,
+        "lon": 31.2352919,
+        "location": "Cairo, EGYPT"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -23.5486657,
+        "lon": -46.6382522,
+        "location": "Sao Paulo, BRAZIL"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.883229,
+        "lon": -87.632398,
+        "location": "Chicago, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "weight": 3
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "EG",
+        "countryName": "EGYPT",
+        "lat": 30.0434879,
+        "lon": 31.2352919,
+        "location": "Cairo, EGYPT"
+      },
+      "weight": 11
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -29.799549,
+        "lon": -50.044518,
+        "location": "LA, BRAZIL"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "ZA",
+        "countryName": "SOUTH AFRICA",
+        "lat": -33.9607625,
+        "lon": 25.6206385,
+        "location": "Port Elizabeth, SOUTH AFRICA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -23.5486657,
+        "lon": -46.6382522,
+        "location": "Sao Paulo, BRAZIL"
+      },
+      "destination": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.4326773,
+        "lon": -99.1342112,
+        "location": "Mexico, MEXICO"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -23.5486657,
+        "lon": -46.6382522,
+        "location": "Sao Paulo, BRAZIL"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 18.9690472,
+        "lon": 72.8211807,
+        "location": "Mumbai, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.883229,
+        "lon": -87.632398,
+        "location": "Chicago, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "weight": 5
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "VN",
+        "countryName": "VIET NAM",
+        "lat": 9.2901338,
+        "lon": 105.726941,
+        "location": "Binh Hoa Ward, VIET NAM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "weight": 3
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "UA",
+        "countryName": "UKRAINE",
+        "lat": 50.473243,
+        "lon": 34.96125,
+        "location": "Trostyanets Sumy Oblast, UKRAINE"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "TR",
+        "countryName": "TURKEY",
+        "lat": 40.797195,
+        "lon": 29.436931,
+        "location": "Gebze, TURKEY"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -23.5486657,
+        "lon": -46.6382522,
+        "location": "Sao Paulo, BRAZIL"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 19.1997061,
+        "lon": 72.9646011,
+        "location": "Thane, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -23.5486657,
+        "lon": -46.6382522,
+        "location": "Sao Paulo, BRAZIL"
+      },
+      "destination": {
+        "country": "ES",
+        "countryName": "SPAIN",
+        "lat": 40.4166909,
+        "lon": -3.7003454,
+        "location": "Madrid, SPAIN"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "IE",
+        "countryName": "IRELAND",
+        "lat": 52.2714147,
+        "lon": -8.7318334,
+        "location": "Co. Kerry, IRELAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "AU",
+        "countryName": "AUSTRALIA",
+        "lat": -35.8683286,
+        "lon": 146.241889,
+        "location": "Ringwood, AUSTRALIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "",
+        "lat": 50.5146294,
+        "lon": 14.0512943,
+        "location": "Lovosice, undefined"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
         "country": "BR",
         "countryName": "BRAZIL",
         "lat": -25.4283563,
@@ -330,11 +910,5406 @@
         "location": "Curitiba, BRAZIL"
       },
       "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 52.62334,
+        "lon": 20.3755938,
+        "location": "Plonsk, POLAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -23.5486657,
+        "lon": -46.6382522,
+        "location": "Sao Paulo, BRAZIL"
+      },
+      "destination": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.2921162,
+        "lon": -99.6557812,
+        "location": "Toluca de Lerdo, MEXICO"
+      },
+      "weight": 2
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -23.5486657,
+        "lon": -46.6382522,
+        "location": "Sao Paulo, BRAZIL"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 49.7639712,
+        "lon": 18.6208928,
+        "location": "Cieszyn, POLAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "RO",
+        "countryName": "ROMANIA",
+        "lat": 44.3744344,
+        "lon": 25.9490935,
+        "location": "Com. Clinceni, ROMANIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -23.5486657,
+        "lon": -46.6382522,
+        "location": "Sao Paulo, BRAZIL"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 36.19585,
+        "lon": -115.114574,
+        "location": "N/A, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "AR",
+        "countryName": "ARGENTINA",
+        "lat": -34.697644,
+        "lon": -58.336019,
+        "location": "Thames, ARGENTINA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.2565334,
+        "lon": -79.8744196,
+        "location": "Hamilton, CANADA"
+      },
+      "weight": 1
+    }
+  ],
+  "DE": [
+    {
+      "country": "DE",
+      "source": {
+        "country": "DE",
+        "countryName": "GERMANY",
+        "lat": 53.074981,
+        "lon": 8.807081,
+        "location": "Bremen, GERMANY"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "weight": 3
+    },
+    {
+      "country": "DE",
+      "source": {
+        "country": "DE",
+        "countryName": "GERMANY",
+        "lat": 47.6116949,
+        "lon": 7.6589039,
+        "location": "Loerrach, GERMANY"
+      },
+      "destination": {
+        "country": "CH",
+        "countryName": "SWITZERLAND",
+        "lat": 46.9480024,
+        "lon": 7.4481304,
+        "location": "Bern, SWITZERLAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "DE",
+      "source": {
+        "country": "DE",
+        "countryName": "GERMANY",
+        "lat": 47.6116949,
+        "lon": 7.6589039,
+        "location": "Loerrach, GERMANY"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "DE",
+      "source": {
+        "country": "DE",
+        "countryName": "GERMANY",
+        "lat": 53.074981,
+        "lon": 8.807081,
+        "location": "Bremen, GERMANY"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "DE",
+      "source": {
+        "country": "DE",
+        "countryName": "GERMANY",
+        "lat": 53.074981,
+        "lon": 8.807081,
+        "location": "Bremen, GERMANY"
+      },
+      "destination": {
+        "country": "TH",
+        "countryName": "THAILAND",
+        "lat": 13.7834898,
+        "lon": 100.8146582,
+        "location": "Lad Krabang, THAILAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "DE",
+      "source": {
+        "country": "DE",
+        "countryName": "GERMANY",
+        "lat": 47.6116949,
+        "lon": 7.6589039,
+        "location": "Loerrach, GERMANY"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 52.62334,
+        "lon": 20.3755938,
+        "location": "Plonsk, POLAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "DE",
+      "source": {
+        "country": "DE",
+        "countryName": "GERMANY",
+        "lat": 47.6116949,
+        "lon": 7.6589039,
+        "location": "Loerrach, GERMANY"
+      },
+      "destination": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "weight": 3
+    },
+    {
+      "country": "DE",
+      "source": {
+        "country": "DE",
+        "countryName": "GERMANY",
+        "lat": 48.060101,
+        "lon": 11.622189,
+        "location": "Unterhaching, GERMANY"
+      },
+      "destination": {
+        "country": "DE",
+        "countryName": "GERMANY",
+        "lat": 48.060101,
+        "lon": 11.622189,
+        "location": "Unterhaching, GERMANY"
+      },
+      "weight": 10
+    },
+    {
+      "country": "DE",
+      "source": {
+        "country": "DE",
+        "countryName": "GERMANY",
+        "lat": 53.074981,
+        "lon": 8.807081,
+        "location": "Bremen, GERMANY"
+      },
+      "destination": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "weight": 1
+    },
+    {
+      "country": "DE",
+      "source": {
+        "country": "DE",
+        "countryName": "GERMANY",
+        "lat": 53.074981,
+        "lon": 8.807081,
+        "location": "Bremen, GERMANY"
+      },
+      "destination": {
+        "country": "EG",
+        "countryName": "EGYPT",
+        "lat": 30.0434879,
+        "lon": 31.2352919,
+        "location": "Cairo, EGYPT"
+      },
+      "weight": 1
+    },
+    {
+      "country": "DE",
+      "source": {
+        "country": "DE",
+        "countryName": "GERMANY",
+        "lat": 53.074981,
+        "lon": 8.807081,
+        "location": "Bremen, GERMANY"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.883229,
+        "lon": -87.632398,
+        "location": "Chicago, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "DE",
+      "source": {
+        "country": "DE",
+        "countryName": "GERMANY",
+        "lat": 47.6116949,
+        "lon": 7.6589039,
+        "location": "Loerrach, GERMANY"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "DE",
+      "source": {
+        "country": "DE",
+        "countryName": "GERMANY",
+        "lat": 53.074981,
+        "lon": 8.807081,
+        "location": "Bremen, GERMANY"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "DE",
+      "source": {
+        "country": "DE",
+        "countryName": "GERMANY",
+        "lat": 48.060101,
+        "lon": 11.622189,
+        "location": "Unterhaching, GERMANY"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "DE",
+      "source": {
+        "country": "DE",
+        "countryName": "GERMANY",
+        "lat": 47.6116949,
+        "lon": 7.6589039,
+        "location": "Loerrach, GERMANY"
+      },
+      "destination": {
+        "country": "AR",
+        "countryName": "ARGENTINA",
+        "lat": -34.697644,
+        "lon": -58.336019,
+        "location": "Thames, ARGENTINA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "DE",
+      "source": {
+        "country": "DE",
+        "countryName": "GERMANY",
+        "lat": 47.6116949,
+        "lon": 7.6589039,
+        "location": "Loerrach, GERMANY"
+      },
+      "destination": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.2921162,
+        "lon": -99.6557812,
+        "location": "Toluca de Lerdo, MEXICO"
+      },
+      "weight": 1
+    },
+    {
+      "country": "DE",
+      "source": {
+        "country": "DE",
+        "countryName": "GERMANY",
+        "lat": 47.6116949,
+        "lon": 7.6589039,
+        "location": "Loerrach, GERMANY"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 52.4640811,
+        "lon": 16.6656627,
+        "location": "Tarnowo Podgorne, POLAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "DE",
+      "source": {
+        "country": "DE",
+        "countryName": "GERMANY",
+        "lat": 47.6116949,
+        "lon": 7.6589039,
+        "location": "Loerrach, GERMANY"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 26.3357326,
+        "lon": 78.3228882,
+        "location": "Malanpur, INDIA"
+      },
+      "weight": 1
+    }
+  ],
+  "GB": [
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "weight": 20
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 18.7348521,
+        "lon": 73.7162582,
+        "location": "Induri, INDIA"
+      },
+      "weight": 3
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "FR",
+        "countryName": "FRANCE",
+        "lat": 48.7308001,
+        "lon": 2.1742453,
+        "location": "Saclay, FRANCE"
+      },
+      "weight": 2
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "weight": 13
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "TH",
+        "countryName": "THAILAND",
+        "lat": 13.7834898,
+        "lon": 100.8146582,
+        "location": "Lad Krabang, THAILAND"
+      },
+      "weight": 2
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
         "country": "IN",
         "countryName": "INDIA",
         "lat": 19.1997061,
         "lon": 72.9646011,
         "location": "Thane, INDIA"
+      },
+      "weight": 28
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "weight": 10
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 50.5146294,
+        "lon": 14.0512943,
+        "location": "Lovosice, CZECH REPUBLIC"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "ZA",
+        "countryName": "SOUTH AFRICA",
+        "lat": -26.201452,
+        "lon": 28.045488,
+        "location": "Johannesburg, SOUTH AFRICA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "PT",
+        "countryName": "PORTUGAL",
+        "lat": 38.729098,
+        "lon": -9.220154,
+        "location": "Alfragide, PORTUGAL"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "ES",
+        "countryName": "SPAIN",
+        "lat": 40.4166909,
+        "lon": -3.7003454,
+        "location": "Madrid, SPAIN"
+      },
+      "weight": 2
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "FR",
+        "countryName": "FRANCE",
+        "lat": 48.7308001,
+        "lon": 2.1742453,
+        "location": "Saclay, FRANCE"
+      },
+      "weight": 2
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 19.1997061,
+        "lon": 72.9646011,
+        "location": "Thane, INDIA"
+      },
+      "weight": 4
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UK, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "SK",
+        "countryName": "SLOVAKIA",
+        "lat": 35.670018,
+        "lon": -95.158994,
+        "location": "Central Europe Only, SLOVAKIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "PE",
+        "countryName": "PERU",
+        "lat": -12.0579766,
+        "lon": -77.037134,
+        "location": "Lima, PERU"
+      },
+      "weight": 3
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "weight": 10
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "BE",
+        "countryName": "BELGIUM",
+        "lat": 51.0289371,
+        "lon": 4.477941,
+        "location": "Mechelen, BELGIUM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "IT",
+        "countryName": "ITALY",
+        "lat": 45.4636183,
+        "lon": 9.1881156,
+        "location": "Milan, ITALY"
+      },
+      "weight": 6
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UK, UNITED KINGDOM"
+      },
+      "weight": 10
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "SK",
+        "countryName": "SLOVAKIA",
+        "lat": 35.670018,
+        "lon": -95.158994,
+        "location": "Central Europe Only, SLOVAKIA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.883229,
+        "lon": -87.632398,
+        "location": "Chicago, UNITED STATES"
+      },
+      "weight": 2
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "AR",
+        "countryName": "ARGENTINA",
+        "lat": -45.5772823,
+        "lon": -71.0327847,
+        "location": "Ricardo Rojas, ARGENTINA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "SG",
+        "countryName": "SINGAPORE",
+        "lat": 1.2894365,
+        "lon": 103.8499802,
+        "location": "Singapore, SINGAPORE"
+      },
+      "weight": 6
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 51.5380493,
+        "lon": 20.0085251,
+        "location": "Tomaszow Mazowiecki, POLAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "SK",
+        "countryName": "SLOVAKIA",
+        "lat": 48.1464009,
+        "lon": 17.1068781,
+        "location": "Bratislava, SLOVAKIA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.5528083,
+        "lon": -99.2018818,
+        "location": "Tlalnepantla de Baz, MEXICO"
+      },
+      "weight": 5
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "ES",
+        "countryName": "SPAIN",
+        "lat": 41.6082321,
+        "lon": 2.287809,
+        "location": "Granollers, Barcelona, SPAIN"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "EG",
+        "countryName": "EGYPT",
+        "lat": 30.0434879,
+        "lon": 31.2352919,
+        "location": "Cairo, EGYPT"
+      },
+      "weight": 2
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "weight": 3
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 51.0487909,
+        "lon": 16.9655796,
+        "location": "Bielany Wroclawskie, Kobierzyce, POLAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "BE",
+        "countryName": "BELGIUM",
+        "lat": 51.1778861,
+        "lon": 4.8357935,
+        "location": "Herentals, BELGIUM"
+      },
+      "weight": 2
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "AU",
+        "countryName": "AUSTRALIA",
+        "lat": -31.9805208,
+        "lon": 115.7812066,
+        "location": "Claremont, AUSTRALIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 50.789124,
+        "lon": -3.652245,
+        "location": "Crediton, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "AU",
+        "countryName": "AUSTRALIA",
+        "lat": -37.8284096,
+        "lon": 140.7806561,
+        "location": "Mt Gambier, AUSTRALIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "ID",
+        "countryName": "INDONESIA",
+        "lat": -7.6425806,
+        "lon": 112.9104354,
+        "location": "Pasuruan, INDONESIA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "AU",
+        "countryName": "AUSTRALIA",
+        "lat": -35.8683286,
+        "lon": 146.241889,
+        "location": "Ringwood, AUSTRALIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 18.9690472,
+        "lon": 72.8211807,
+        "location": "Mumbai, INDIA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "weight": 15
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "weight": 3
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -23.5486657,
+        "lon": -46.6382522,
+        "location": "Sao Paulo, BRAZIL"
+      },
+      "weight": 3
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "AU",
+        "countryName": "AUSTRALIA",
+        "lat": -35.8683286,
+        "lon": 146.241889,
+        "location": "Ringwood, AUSTRALIA"
+      },
+      "weight": 6
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -23.5486657,
+        "lon": -46.6382522,
+        "location": "Sao Paulo, BRAZIL"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "AT",
+        "countryName": "AUSTRIA",
+        "lat": 48.2092062,
+        "lon": 16.3727778,
+        "location": "Vienna, AUSTRIA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 52.2349786,
+        "lon": 21.0084924,
+        "location": "Warszawa, POLAND"
+      },
+      "weight": 3
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "CR",
+        "countryName": "COSTA RICA",
+        "lat": 9.9331345,
+        "lon": -84.0797794,
+        "location": "San Jose, COSTA RICA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 26.3357326,
+        "lon": 78.3228882,
+        "location": "Malanpur, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.2262757,
+        "lon": -2.7387275,
+        "location": "Leominster, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 19.1997061,
+        "lon": 72.9646011,
+        "location": "Thane, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "DE",
+        "countryName": "GERMANY",
+        "lat": 47.6116949,
+        "lon": 7.6589039,
+        "location": "Loerrach, GERMANY"
+      },
+      "weight": 6
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "ZA",
+        "countryName": "SOUTH AFRICA",
+        "lat": -33.9607625,
+        "lon": 25.6206385,
+        "location": "Port Elizabeth, SOUTH AFRICA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.9311863,
+        "lon": -3.0563002,
+        "location": "Chirk, UNITED KINGDOM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "IE",
+        "countryName": "IRELAND",
+        "lat": 53.3440956,
+        "lon": -6.2674862,
+        "location": "Dublin, IRELAND"
+      },
+      "weight": 2
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UK, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "IT",
+        "countryName": "ITALY",
+        "lat": 45.4636183,
+        "lon": 9.1881156,
+        "location": "Milan, ITALY"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "PE",
+        "countryName": "PERU",
+        "lat": -12.0579766,
+        "lon": -77.037134,
+        "location": "Lima, PERU"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "SK",
+        "countryName": "SLOVAKIA",
+        "lat": 48.2101695,
+        "lon": 16.9770998,
+        "location": "Bratislava 1, SLOVAKIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "VN",
+        "countryName": "VIET NAM",
+        "lat": 9.2901338,
+        "lon": 105.726941,
+        "location": "Binh Hoa Ward, VIET NAM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UK, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.703966,
+        "lon": -79.341178,
+        "location": "East York, CANADA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "LT",
+        "countryName": "LITHUANIA",
+        "lat": 54.8968721,
+        "lon": 23.8924264,
+        "location": "Kaunas, LITHUANIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 52.2349786,
+        "lon": 21.0084924,
+        "location": "Warszawa, POLAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "SK",
+        "countryName": "SLOVAKIA",
+        "lat": 48.1464009,
+        "lon": 17.1068781,
+        "location": "Bratislava, SLOVAKIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "",
+        "lat": 41.0129952,
+        "lon": 28.9747973,
+        "location": "Istanbul, undefined"
+      },
+      "weight": 2
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "UA",
+        "countryName": "UKRAINE",
+        "lat": 50.473243,
+        "lon": 34.96125,
+        "location": "Trostyanets Sumy Oblast, UKRAINE"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "IT",
+        "countryName": "ITALY",
+        "lat": 44.728813,
+        "lon": 8.689513,
+        "location": "Capriata D'Orba, ITALY"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "IL",
+        "countryName": "ISRAEL",
+        "lat": 31.9491753,
+        "lon": 34.8932604,
+        "location": "Lod, ISRAEL"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.116328,
+        "lon": -88.243522,
+        "location": "Champaign, UNITED STATES"
+      },
+      "weight": 2
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 36.19585,
+        "lon": -115.114574,
+        "location": "N/A, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "NO",
+        "countryName": "NORWAY",
+        "lat": 59.9138204,
+        "lon": 10.7387413,
+        "location": "Oslo, NORWAY"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 10.736675,
+        "lon": 77.525597,
+        "location": "Dharapuram, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "BG",
+        "countryName": "BULGARIA",
+        "lat": 42.6964917,
+        "lon": 23.3260106,
+        "location": "Sofia, BULGARIA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 52.4640811,
+        "lon": 16.6656627,
+        "location": "Tarnowo Podgorne, POLAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "AR",
+        "countryName": "ARGENTINA",
+        "lat": -34.697644,
+        "lon": -58.336019,
+        "location": "Thames, ARGENTINA"
+      },
+      "weight": 4
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.2262757,
+        "lon": -2.7387275,
+        "location": "Leominster, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "VN",
+        "countryName": "VIET NAM",
+        "lat": 9.2901338,
+        "lon": 105.726941,
+        "location": "Binh Hoa Ward, VIET NAM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 39.76845,
+        "lon": -86.156212,
+        "location": "Indianapolis, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 10.736675,
+        "lon": 77.525597,
+        "location": "Dharapuram, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "AU",
+        "countryName": "AUSTRALIA",
+        "lat": -37.8153434,
+        "lon": 144.9632276,
+        "location": "Melbourne, AUSTRALIA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.2921162,
+        "lon": -99.6557812,
+        "location": "Toluca de Lerdo, MEXICO"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.7714951,
+        "lon": -88.147999,
+        "location": "Naperville, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "PH",
+        "countryName": "PHILIPPINES",
+        "lat": 14.5598218,
+        "lon": 121.0806429,
+        "location": "Pasig City, PHILIPPINES"
+      },
+      "weight": 1
+    }
+  ],
+  "GR": [
+    {
+      "country": "GR",
+      "source": {
+        "country": "GR",
+        "countryName": "GREECE",
+        "lat": 38.8999019,
+        "lon": 22.4336804,
+        "location": "Lamia, GREECE"
+      },
+      "destination": {
+        "country": "EG",
+        "countryName": "EGYPT",
+        "lat": 30.0434879,
+        "lon": 31.2352919,
+        "location": "Cairo, EGYPT"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GR",
+      "source": {
+        "country": "GR",
+        "countryName": "GREECE",
+        "lat": 37.9753357,
+        "lon": 23.7361497,
+        "location": "Athens, GREECE"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 26.3357326,
+        "lon": 78.3228882,
+        "location": "Malanpur, INDIA"
+      },
+      "weight": 1
+    }
+  ],
+  "SG": [
+    {
+      "country": "SG",
+      "source": {
+        "country": "SG",
+        "countryName": "SINGAPORE",
+        "lat": 1.2894365,
+        "lon": 103.8499802,
+        "location": "Singapore, SINGAPORE"
+      },
+      "destination": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -23.5486657,
+        "lon": -46.6382522,
+        "location": "Sao Paulo, BRAZIL"
+      },
+      "weight": 1
+    },
+    {
+      "country": "SG",
+      "source": {
+        "country": "SG",
+        "countryName": "SINGAPORE",
+        "lat": 1.2894365,
+        "lon": 103.8499802,
+        "location": "Singapore, SINGAPORE"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 50.789124,
+        "lon": -3.652245,
+        "location": "Crediton, UNITED KINGDOM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "SG",
+      "source": {
+        "country": "SG",
+        "countryName": "SINGAPORE",
+        "lat": 1.2894365,
+        "lon": 103.8499802,
+        "location": "Singapore, SINGAPORE"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "weight": 2
+    },
+    {
+      "country": "SG",
+      "source": {
+        "country": "SG",
+        "countryName": "SINGAPORE",
+        "lat": 1.2894365,
+        "lon": 103.8499802,
+        "location": "Singapore, SINGAPORE"
+      },
+      "destination": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 49.9767389,
+        "lon": 17.8620139,
+        "location": "Opava - Vavrovice, CZECH REPUBLIC"
+      },
+      "weight": 1
+    },
+    {
+      "country": "SG",
+      "source": {
+        "country": "SG",
+        "countryName": "SINGAPORE",
+        "lat": 1.2894365,
+        "lon": 103.8499802,
+        "location": "Singapore, SINGAPORE"
+      },
+      "destination": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "weight": 1
+    },
+    {
+      "country": "SG",
+      "source": {
+        "country": "SG",
+        "countryName": "SINGAPORE",
+        "lat": 1.2894365,
+        "lon": 103.8499802,
+        "location": "Singapore, SINGAPORE"
+      },
+      "destination": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "weight": 1
+    },
+    {
+      "country": "SG",
+      "source": {
+        "country": "SG",
+        "countryName": "SINGAPORE",
+        "lat": 1.2894365,
+        "lon": 103.8499802,
+        "location": "Singapore, SINGAPORE"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "SG",
+      "source": {
+        "country": "SG",
+        "countryName": "SINGAPORE",
+        "lat": 1.2894365,
+        "lon": 103.8499802,
+        "location": "Singapore, SINGAPORE"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "SG",
+      "source": {
+        "country": "SG",
+        "countryName": "SINGAPORE",
+        "lat": 1.2894365,
+        "lon": 103.8499802,
+        "location": "Singapore, SINGAPORE"
+      },
+      "destination": {
+        "country": "EG",
+        "countryName": "EGYPT",
+        "lat": 30.0434879,
+        "lon": 31.2352919,
+        "location": "Cairo, EGYPT"
+      },
+      "weight": 1
+    }
+  ],
+  "MX": [
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.5528083,
+        "lon": -99.2018818,
+        "location": "Tlalnepantla de Baz, MEXICO"
+      },
+      "destination": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.5528083,
+        "lon": -99.2018818,
+        "location": "Tlalnepantla de Baz, MEXICO"
+      },
+      "weight": 10
+    },
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.0436786,
+        "lon": -98.1990388,
+        "location": "Puebla, MEXICO"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 26.289854,
+        "lon": -98.295147,
+        "location": "N/A, MEXICO"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 29.576349,
+        "lon": -95.765327,
+        "location": "Richmond, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 25.572595,
+        "lon": -99.968972,
+        "location": "Nuevo Leon, MEXICO"
+      },
+      "destination": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 25.572595,
+        "lon": -99.968972,
+        "location": "Nuevo Leon, MEXICO"
+      },
+      "weight": 10
+    },
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.0436786,
+        "lon": -98.1990388,
+        "location": "Puebla, MEXICO"
+      },
+      "destination": {
+        "country": "MY",
+        "countryName": "MALAYSIA",
+        "lat": 3.0741465,
+        "lon": 101.5185805,
+        "location": "Shah Alam, MALAYSIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.5528083,
+        "lon": -99.2018818,
+        "location": "Tlalnepantla de Baz, MEXICO"
+      },
+      "destination": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.0436786,
+        "lon": -98.1990388,
+        "location": "Puebla, MEXICO"
+      },
+      "destination": {
+        "country": "GR",
+        "countryName": "GREECE",
+        "lat": 38.0633654,
+        "lon": 23.7610318,
+        "location": "Metamorfosi, GREECE"
+      },
+      "weight": 1
+    },
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.5528083,
+        "lon": -99.2018818,
+        "location": "Tlalnepantla de Baz, MEXICO"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 51.0487909,
+        "lon": 16.9655796,
+        "location": "Bielany Wroclawskie, Kobierzyce, POLAND"
+      },
+      "weight": 3
+    },
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.5528083,
+        "lon": -99.2018818,
+        "location": "Tlalnepantla de Baz, MEXICO"
+      },
+      "destination": {
+        "country": "VN",
+        "countryName": "VIET NAM",
+        "lat": 9.2901338,
+        "lon": 105.726941,
+        "location": "Binh Hoa Ward, VIET NAM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.5528083,
+        "lon": -99.2018818,
+        "location": "Tlalnepantla de Baz, MEXICO"
+      },
+      "destination": {
+        "country": "AT",
+        "countryName": "AUSTRIA",
+        "lat": 48.2092062,
+        "lon": 16.3727778,
+        "location": "Vienna, AUSTRIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.0436786,
+        "lon": -98.1990388,
+        "location": "Puebla, MEXICO"
+      },
+      "destination": {
+        "country": "BE",
+        "countryName": "BELGIUM",
+        "lat": 51.1778861,
+        "lon": 4.8357935,
+        "location": "Herentals, BELGIUM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.0436786,
+        "lon": -98.1990388,
+        "location": "Puebla, MEXICO"
+      },
+      "destination": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "weight": 3
+    },
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.0436786,
+        "lon": -98.1990388,
+        "location": "Puebla, MEXICO"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.2262757,
+        "lon": -2.7387275,
+        "location": "Leominster, UNITED KINGDOM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.4326773,
+        "lon": -99.1342112,
+        "location": "Ciudad de Mexico, MEXICO"
+      },
+      "destination": {
+        "country": "",
+        "lat": 41.0129952,
+        "lon": 28.9747973,
+        "location": "Istanbul, undefined"
+      },
+      "weight": 1
+    },
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.4326773,
+        "lon": -99.1342112,
+        "location": "Ciudad de Mexico, MEXICO"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 52.2349786,
+        "lon": 21.0084924,
+        "location": "Warszawa, POLAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.5528083,
+        "lon": -99.2018818,
+        "location": "Tlalnepantla de Baz, MEXICO"
+      },
+      "destination": {
+        "country": "NG",
+        "countryName": "NIGERIA",
+        "lat": 6.4931107,
+        "lon": 3.3841634,
+        "location": "Lagos, NIGERIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.2921162,
+        "lon": -99.6557812,
+        "location": "Toluca de Lerdo, MEXICO"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.5528083,
+        "lon": -99.2018818,
+        "location": "Tlalnepantla de Baz, MEXICO"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "weight": 2
+    },
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.0436786,
+        "lon": -98.1990388,
+        "location": "Puebla, MEXICO"
+      },
+      "destination": {
+        "country": "AU",
+        "countryName": "AUSTRALIA",
+        "lat": -37.8153434,
+        "lon": 144.9632276,
+        "location": "Melbourne, AUSTRALIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.0436786,
+        "lon": -98.1990388,
+        "location": "Puebla, MEXICO"
+      },
+      "destination": {
+        "country": "EG",
+        "countryName": "EGYPT",
+        "lat": 30.0434879,
+        "lon": 31.2352919,
+        "location": "Cairo, EGYPT"
+      },
+      "weight": 1
+    }
+  ],
+  "CH": [
+    {
+      "country": "CH",
+      "source": {
+        "country": "CH",
+        "countryName": "SWITZERLAND",
+        "lat": 47.4225206,
+        "lon": 8.56099,
+        "location": "Glattpark, SWITZERLAND"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CH",
+      "source": {
+        "country": "CH",
+        "countryName": "SWITZERLAND",
+        "lat": 47.4225206,
+        "lon": 8.56099,
+        "location": "Glattpark, SWITZERLAND"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CH",
+      "source": {
+        "country": "CH",
+        "countryName": "SWITZERLAND",
+        "lat": 46.5204744,
+        "lon": 6.6316038,
+        "location": "Central Europe Only, SWITZERLAND"
+      },
+      "destination": {
+        "country": "CH",
+        "countryName": "SWITZERLAND",
+        "lat": 46.5204744,
+        "lon": 6.6316038,
+        "location": "Central Europe Only, SWITZERLAND"
+      },
+      "weight": 10
+    },
+    {
+      "country": "CH",
+      "source": {
+        "country": "CH",
+        "countryName": "SWITZERLAND",
+        "lat": 47.4225206,
+        "lon": 8.56099,
+        "location": "Glattpark, SWITZERLAND"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 19.1997061,
+        "lon": 72.9646011,
+        "location": "Thane, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CH",
+      "source": {
+        "country": "CH",
+        "countryName": "SWITZERLAND",
+        "lat": 47.4225206,
+        "lon": 8.56099,
+        "location": "Glattpark, SWITZERLAND"
+      },
+      "destination": {
+        "country": "SK",
+        "countryName": "SLOVAKIA",
+        "lat": 48.1464009,
+        "lon": 17.1068781,
+        "location": "Bratislava, SLOVAKIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CH",
+      "source": {
+        "country": "CH",
+        "countryName": "SWITZERLAND",
+        "lat": 47.4225206,
+        "lon": 8.56099,
+        "location": "Glattpark, SWITZERLAND"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CH",
+      "source": {
+        "country": "CH",
+        "countryName": "SWITZERLAND",
+        "lat": 47.4225206,
+        "lon": 8.56099,
+        "location": "Glattpark, SWITZERLAND"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 52.62334,
+        "lon": 20.3755938,
+        "location": "Plonsk, POLAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CH",
+      "source": {
+        "country": "CH",
+        "countryName": "SWITZERLAND",
+        "lat": 47.4225206,
+        "lon": 8.56099,
+        "location": "Glattpark, SWITZERLAND"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 26.3357326,
+        "lon": 78.3228882,
+        "location": "Malanpur, INDIA"
+      },
+      "weight": 1
+    }
+  ],
+  "PL": [
+    {
+      "country": "PL",
+      "source": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 51.0487909,
+        "lon": 16.9655796,
+        "location": "Bielany Wroclawskie, Kobierzyce, POLAND"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "weight": 8
+    },
+    {
+      "country": "PL",
+      "source": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 51.1105483,
+        "lon": 17.0255582,
+        "location": "Wroclaw, Poland, POLAND"
+      },
+      "destination": {
+        "country": "AU",
+        "countryName": "AUSTRALIA",
+        "lat": -35.8683286,
+        "lon": 146.241889,
+        "location": "Ringwood, AUSTRALIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "PL",
+      "source": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 50.8468332,
+        "lon": 17.4188859,
+        "location": "Skarbimierz-Osiedle, POLAND"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 18.9690472,
+        "lon": 72.8211807,
+        "location": "Mumbai, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "PL",
+      "source": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 52.2349786,
+        "lon": 21.0084924,
+        "location": "Warszawa, POLAND"
+      },
+      "destination": {
+        "country": "SK",
+        "countryName": "SLOVAKIA",
+        "lat": 48.1464009,
+        "lon": 17.1068781,
+        "location": "Bratislava, SLOVAKIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "PL",
+      "source": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 52.2349786,
+        "lon": 21.0084924,
+        "location": "Warszawa, POLAND"
+      },
+      "destination": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "weight": 1
+    },
+    {
+      "country": "PL",
+      "source": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 51.0487909,
+        "lon": 16.9655796,
+        "location": "Bielany Wroclawskie, Kobierzyce, POLAND"
+      },
+      "destination": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "PL",
+      "source": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 51.0487909,
+        "lon": 16.9655796,
+        "location": "Bielany Wroclawskie, Kobierzyce, POLAND"
+      },
+      "destination": {
+        "country": "AU",
+        "countryName": "AUSTRALIA",
+        "lat": -35.8683286,
+        "lon": 146.241889,
+        "location": "Ringwood, AUSTRALIA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "PL",
+      "source": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 52.2349786,
+        "lon": 21.0084924,
+        "location": "Warszawa, POLAND"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 18.7348521,
+        "lon": 73.7162582,
+        "location": "Induri, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "PL",
+      "source": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 50.8468332,
+        "lon": 17.4188859,
+        "location": "Skarbimierz-Osiedle, POLAND"
+      },
+      "destination": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "weight": 1
+    },
+    {
+      "country": "PL",
+      "source": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 50.8468332,
+        "lon": 17.4188859,
+        "location": "Skarbimierz-Osiedle, POLAND"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 50.789124,
+        "lon": -3.652245,
+        "location": "Crediton, UNITED KINGDOM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "PL",
+      "source": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 52.2349786,
+        "lon": 21.0084924,
+        "location": "Warszawa, POLAND"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 52.2349786,
+        "lon": 21.0084924,
+        "location": "Warszawa, POLAND"
+      },
+      "weight": 10
+    },
+    {
+      "country": "PL",
+      "source": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 51.0487909,
+        "lon": 16.9655796,
+        "location": "Bielany Wroclawskie, Kobierzyce, POLAND"
+      },
+      "destination": {
+        "country": "IT",
+        "countryName": "ITALY",
+        "lat": 44.728813,
+        "lon": 8.689513,
+        "location": "Capriata D'Orba, ITALY"
+      },
+      "weight": 1
+    },
+    {
+      "country": "PL",
+      "source": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 51.0487909,
+        "lon": 16.9655796,
+        "location": "Bielany Wroclawskie, Kobierzyce, POLAND"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 51.0487909,
+        "lon": 16.9655796,
+        "location": "Bielany Wroclawskie, Kobierzyce, POLAND"
+      },
+      "weight": 10
+    },
+    {
+      "country": "PL",
+      "source": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 52.4640811,
+        "lon": 16.6656627,
+        "location": "Tarnowo Podgorne, POLAND"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "weight": 2
+    }
+  ],
+  "US": [
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.883229,
+        "lon": -87.632398,
+        "location": "Chicago, UNITED STATES"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 26.3357326,
+        "lon": 78.3228882,
+        "location": "Malanpur, INDIA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "weight": 10
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.883229,
+        "lon": -87.632398,
+        "location": "Chicago, UNITED STATES"
+      },
+      "destination": {
+        "country": "TH",
+        "countryName": "THAILAND",
+        "lat": 16.7284578,
+        "lon": 102.8024906,
+        "location": "Num Phong, THAILAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.883229,
+        "lon": -87.632398,
+        "location": "Chicago, UNITED STATES"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "weight": 4
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.883229,
+        "lon": -87.632398,
+        "location": "Chicago, UNITED STATES"
+      },
+      "destination": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.2921162,
+        "lon": -99.6557812,
+        "location": "Toluca de Lerdo, MEXICO"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "destination": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 25.6649145,
+        "lon": -100.2054945,
+        "location": "Guadalupe, MEXICO"
+      },
+      "weight": 2
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 30.93938,
+        "lon": -95.328457,
+        "location": "Coral Gables, UNITED STATES"
+      },
+      "destination": {
+        "country": "ES",
+        "countryName": "SPAIN",
+        "lat": 40.4166909,
+        "lon": -3.7003454,
+        "location": "Madrid, SPAIN"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.883229,
+        "lon": -87.632398,
+        "location": "Chicago, UNITED STATES"
+      },
+      "destination": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.703966,
+        "lon": -79.341178,
+        "location": "East York, CANADA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 30.9383087,
+        "lon": 76.815288,
+        "location": "Baddi, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 29.576349,
+        "lon": -95.765327,
+        "location": "Richmond, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 36.19585,
+        "lon": -115.114574,
+        "location": "N/A, UNITED STATES"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UK, UNITED KINGDOM"
+      },
+      "weight": 4
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.883229,
+        "lon": -87.632398,
+        "location": "Chicago, UNITED STATES"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "weight": 2
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.883229,
+        "lon": -87.632398,
+        "location": "Chicago, UNITED STATES"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 51.5380493,
+        "lon": 20.0085251,
+        "location": "Tomaszow Mazowiecki, POLAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "destination": {
+        "country": "SK",
+        "countryName": "SLOVAKIA",
+        "lat": 35.670018,
+        "lon": -95.158994,
+        "location": "Central Europe Only, SLOVAKIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.883229,
+        "lon": -87.632398,
+        "location": "Chicago, UNITED STATES"
+      },
+      "destination": {
+        "country": "ES",
+        "countryName": "SPAIN",
+        "lat": 41.6082321,
+        "lon": 2.287809,
+        "location": "Granollers, Barcelona, SPAIN"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 36.19585,
+        "lon": -115.114574,
+        "location": "N/A, UNITED STATES"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "destination": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.883229,
+        "lon": -87.632398,
+        "location": "Chicago, UNITED STATES"
+      },
+      "destination": {
+        "country": "EG",
+        "countryName": "EGYPT",
+        "lat": 30.0434879,
+        "lon": 31.2352919,
+        "location": "Cairo, EGYPT"
+      },
+      "weight": 7
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 36.19585,
+        "lon": -115.114574,
+        "location": "N/A, UNITED STATES"
+      },
+      "destination": {
+        "country": "GR",
+        "countryName": "GREECE",
+        "lat": 38.0633654,
+        "lon": 23.7610318,
+        "location": "Metamorfosi, GREECE"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "destination": {
+        "country": "CN",
+        "countryName": "CHINA",
+        "lat": 33.6375983,
+        "lon": 116.9769588,
+        "location": "Suzhou, CHINA"
+      },
+      "weight": 4
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 36.19585,
+        "lon": -115.114574,
+        "location": "N/A, UNITED STATES"
+      },
+      "destination": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 36.19585,
+        "lon": -115.114574,
+        "location": "N/A, UNITED STATES"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 19.1997061,
+        "lon": 72.9646011,
+        "location": "Thane, INDIA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 36.19585,
+        "lon": -115.114574,
+        "location": "N/A, UNITED STATES"
+      },
+      "destination": {
+        "country": "UA",
+        "countryName": "UKRAINE",
+        "lat": 50.473243,
+        "lon": 34.96125,
+        "location": "Trostyanets Sumy Oblast, UKRAINE"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 19.1997061,
+        "lon": 72.9646011,
+        "location": "Thane, INDIA"
+      },
+      "weight": 3
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.883229,
+        "lon": -87.632398,
+        "location": "Chicago, UNITED STATES"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.883229,
+        "lon": -87.632398,
+        "location": "Chicago, UNITED STATES"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 18.9690472,
+        "lon": 72.8211807,
+        "location": "Mumbai, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.883229,
+        "lon": -87.632398,
+        "location": "Chicago, UNITED STATES"
+      },
+      "destination": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.883229,
+        "lon": -87.632398,
+        "location": "Chicago, UNITED STATES"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.7714951,
+        "lon": -88.147999,
+        "location": "Naperville, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "destination": {
+        "country": "MA",
+        "countryName": "MOROCCO",
+        "lat": 33.5964565,
+        "lon": -7.615478,
+        "location": "Casablanca, MOROCCO"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 36.19585,
+        "lon": -115.114574,
+        "location": "N/A, UNITED STATES"
+      },
+      "destination": {
+        "country": "VN",
+        "countryName": "VIET NAM",
+        "lat": 9.2901338,
+        "lon": 105.726941,
+        "location": "Binh Hoa Ward, VIET NAM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "destination": {
+        "country": "LT",
+        "countryName": "LITHUANIA",
+        "lat": 54.8968721,
+        "lon": 23.8924264,
+        "location": "Kaunas, LITHUANIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.7714951,
+        "lon": -88.147999,
+        "location": "Naperville, UNITED STATES"
+      },
+      "destination": {
+        "country": "PE",
+        "countryName": "PERU",
+        "lat": -12.0579766,
+        "lon": -77.037134,
+        "location": "Lima, PERU"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.7714951,
+        "lon": -88.147999,
+        "location": "Naperville, UNITED STATES"
+      },
+      "destination": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.2921162,
+        "lon": -99.6557812,
+        "location": "Toluca de Lerdo, MEXICO"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.883229,
+        "lon": -87.632398,
+        "location": "Chicago, UNITED STATES"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 39.76845,
+        "lon": -86.156212,
+        "location": "Indianapolis, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.7714951,
+        "lon": -88.147999,
+        "location": "Naperville, UNITED STATES"
+      },
+      "destination": {
+        "country": "CN",
+        "countryName": "CHINA",
+        "lat": 33.6375983,
+        "lon": 116.9769588,
+        "location": "Suzhou, CHINA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.7714951,
+        "lon": -88.147999,
+        "location": "Naperville, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "destination": {
+        "country": "VN",
+        "countryName": "VIET NAM",
+        "lat": 9.2901338,
+        "lon": 105.726941,
+        "location": "Binh Hoa Ward, VIET NAM"
+      },
+      "weight": 1
+    }
+  ],
+  "BE": [
+    {
+      "country": "BE",
+      "source": {
+        "country": "BE",
+        "countryName": "BELGIUM",
+        "lat": 51.1778861,
+        "lon": 4.8357935,
+        "location": "Herentals, BELGIUM"
+      },
+      "destination": {
+        "country": "ID",
+        "countryName": "INDONESIA",
+        "lat": -7.6425806,
+        "lon": 112.9104354,
+        "location": "Pasuruan, INDONESIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BE",
+      "source": {
+        "country": "BE",
+        "countryName": "BELGIUM",
+        "lat": 51.0289371,
+        "lon": 4.477941,
+        "location": "Mechelen, BELGIUM"
+      },
+      "destination": {
+        "country": "CH",
+        "countryName": "SWITZERLAND",
+        "lat": 47.4225206,
+        "lon": 8.56099,
+        "location": "Glattpark, SWITZERLAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BE",
+      "source": {
+        "country": "BE",
+        "countryName": "BELGIUM",
+        "lat": 51.0289371,
+        "lon": 4.477941,
+        "location": "Mechelen, BELGIUM"
+      },
+      "destination": {
+        "country": "BE",
+        "countryName": "BELGIUM",
+        "lat": 51.1778861,
+        "lon": 4.8357935,
+        "location": "Herentals, BELGIUM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BE",
+      "source": {
+        "country": "BE",
+        "countryName": "BELGIUM",
+        "lat": 51.1778861,
+        "lon": 4.8357935,
+        "location": "Herentals, BELGIUM"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 19.1997061,
+        "lon": 72.9646011,
+        "location": "Thane, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BE",
+      "source": {
+        "country": "BE",
+        "countryName": "BELGIUM",
+        "lat": 51.1778861,
+        "lon": 4.8357935,
+        "location": "Herentals, BELGIUM"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "weight": 4
+    },
+    {
+      "country": "BE",
+      "source": {
+        "country": "BE",
+        "countryName": "BELGIUM",
+        "lat": 51.0289371,
+        "lon": 4.477941,
+        "location": "Mechelen, BELGIUM"
+      },
+      "destination": {
+        "country": "ZA",
+        "countryName": "SOUTH AFRICA",
+        "lat": -26.201452,
+        "lon": 28.045488,
+        "location": "Johannesburg, SOUTH AFRICA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BE",
+      "source": {
+        "country": "BE",
+        "countryName": "BELGIUM",
+        "lat": 51.0289371,
+        "lon": 4.477941,
+        "location": "Mechelen, BELGIUM"
+      },
+      "destination": {
+        "country": "IE",
+        "countryName": "IRELAND",
+        "lat": 53.3440956,
+        "lon": -6.2674862,
+        "location": "Dublin, IRELAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BE",
+      "source": {
+        "country": "BE",
+        "countryName": "BELGIUM",
+        "lat": 51.0289371,
+        "lon": 4.477941,
+        "location": "Mechelen, BELGIUM"
+      },
+      "destination": {
+        "country": "GR",
+        "countryName": "GREECE",
+        "lat": 38.0633654,
+        "lon": 23.7610318,
+        "location": "Metamorfosi, GREECE"
+      },
+      "weight": 1
+    },
+    {
+      "country": "BE",
+      "source": {
+        "country": "BE",
+        "countryName": "BELGIUM",
+        "lat": 51.1778861,
+        "lon": 4.8357935,
+        "location": "Herentals, BELGIUM"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "weight": 1
+    }
+  ],
+  "VN": [
+    {
+      "country": "VN",
+      "source": {
+        "country": "VN",
+        "countryName": "VIET NAM",
+        "lat": 20.933757,
+        "lon": 106.057258,
+        "location": "My Hao Ward, VIET NAM"
+      },
+      "destination": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.703966,
+        "lon": -79.341178,
+        "location": "East York, CANADA"
+      },
+      "weight": 1
+    }
+  ],
+  "IN": [
+    {
+      "country": "IN",
+      "source": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 27.5157309,
+        "lon": -99.4649308,
+        "location": "N/A, INDIA"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "IN",
+      "source": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 19.1997061,
+        "lon": 72.9646011,
+        "location": "Thane, INDIA"
+      },
+      "destination": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, Brazil, BRAZIL"
+      },
+      "weight": 2
+    },
+    {
+      "country": "IN",
+      "source": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 18.9690472,
+        "lon": 72.8211807,
+        "location": "Mumbai, INDIA"
+      },
+      "destination": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "weight": 1
+    },
+    {
+      "country": "IN",
+      "source": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 30.9383087,
+        "lon": 76.815288,
+        "location": "Baddi, INDIA"
+      },
+      "destination": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -29.799549,
+        "lon": -50.044518,
+        "location": "LA, BRAZIL"
+      },
+      "weight": 1
+    },
+    {
+      "country": "IN",
+      "source": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 30.9383087,
+        "lon": 76.815288,
+        "location": "Baddi, INDIA"
+      },
+      "destination": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.2921162,
+        "lon": -99.6557812,
+        "location": "Toluca de Lerdo, MEXICO"
+      },
+      "weight": 1
+    },
+    {
+      "country": "IN",
+      "source": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 19.1997061,
+        "lon": 72.9646011,
+        "location": "Thane, INDIA"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 19.1997061,
+        "lon": 72.9646011,
+        "location": "Thane, INDIA"
+      },
+      "weight": 10
+    },
+    {
+      "country": "IN",
+      "source": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 27.5157309,
+        "lon": -99.4649308,
+        "location": "N/A, INDIA"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "IN",
+      "source": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "destination": {
+        "country": "EG",
+        "countryName": "EGYPT",
+        "lat": 30.0434879,
+        "lon": 31.2352919,
+        "location": "Cairo, EGYPT"
+      },
+      "weight": 1
+    },
+    {
+      "country": "IN",
+      "source": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "destination": {
+        "country": "ZA",
+        "countryName": "SOUTH AFRICA",
+        "lat": -33.9607625,
+        "lon": 25.6206385,
+        "location": "Port Elizabeth, SOUTH AFRICA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "IN",
+      "source": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 18.9690472,
+        "lon": 72.8211807,
+        "location": "Mumbai, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "IN",
+      "source": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 26.3357326,
+        "lon": 78.3228882,
+        "location": "Malanpur, INDIA"
+      },
+      "destination": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "weight": 4
+    },
+    {
+      "country": "IN",
+      "source": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 27.5157309,
+        "lon": -99.4649308,
+        "location": "N/A, INDIA"
+      },
+      "destination": {
+        "country": "ES",
+        "countryName": "SPAIN",
+        "lat": 41.5425435,
+        "lon": 2.2637794,
+        "location": "Montornes Del Valles, Barcelona, SPAIN"
+      },
+      "weight": 1
+    },
+    {
+      "country": "IN",
+      "source": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 27.5157309,
+        "lon": -99.4649308,
+        "location": "N/A, INDIA"
+      },
+      "destination": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "weight": 1
+    },
+    {
+      "country": "IN",
+      "source": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 18.7348521,
+        "lon": 73.7162582,
+        "location": "Induri, INDIA"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 18.7348521,
+        "lon": 73.7162582,
+        "location": "Induri, INDIA"
+      },
+      "weight": 10
+    },
+    {
+      "country": "IN",
+      "source": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 26.3357326,
+        "lon": 78.3228882,
+        "location": "Malanpur, INDIA"
+      },
+      "destination": {
+        "country": "VN",
+        "countryName": "VIET NAM",
+        "lat": 9.2901338,
+        "lon": 105.726941,
+        "location": "Binh Hoa Ward, VIET NAM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "IN",
+      "source": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 18.7348521,
+        "lon": 73.7162582,
+        "location": "Induri, INDIA"
+      },
+      "destination": {
+        "country": "ES",
+        "countryName": "SPAIN",
+        "lat": 41.5425435,
+        "lon": 2.2637794,
+        "location": "Montornes Del Valles, Barcelona, SPAIN"
+      },
+      "weight": 1
+    },
+    {
+      "country": "IN",
+      "source": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 27.5157309,
+        "lon": -99.4649308,
+        "location": "N/A, INDIA"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 26.3357326,
+        "lon": 78.3228882,
+        "location": "Malanpur, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "IN",
+      "source": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 18.7348521,
+        "lon": 73.7162582,
+        "location": "Induri, INDIA"
+      },
+      "destination": {
+        "country": "PH",
+        "countryName": "PHILIPPINES",
+        "lat": 14.5598218,
+        "lon": 121.0806429,
+        "location": "Pasig City, PHILIPPINES"
+      },
+      "weight": 1
+    }
+  ],
+  "PE": [
+    {
+      "country": "PE",
+      "source": {
+        "country": "PE",
+        "countryName": "PERU",
+        "lat": -12.0579766,
+        "lon": -77.037134,
+        "location": "Lima, PERU"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "PE",
+      "source": {
+        "country": "PE",
+        "countryName": "PERU",
+        "lat": -12.0579766,
+        "lon": -77.037134,
+        "location": "Lima, PERU"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 26.3357326,
+        "lon": 78.3228882,
+        "location": "Malanpur, INDIA"
+      },
+      "weight": 1
+    }
+  ],
+  "CA": [
+    {
+      "country": "CA",
+      "source": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "CA",
+      "source": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "destination": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "weight": 3
+    },
+    {
+      "country": "CA",
+      "source": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.7745807,
+        "lon": -79.2523591,
+        "location": "Scarborough, CANADA"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 30.9383087,
+        "lon": 76.815288,
+        "location": "Baddi, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CA",
+      "source": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "destination": {
+        "country": "EG",
+        "countryName": "EGYPT",
+        "lat": 30.0434879,
+        "lon": 31.2352919,
+        "location": "Cairo, EGYPT"
+      },
+      "weight": 2
+    },
+    {
+      "country": "CA",
+      "source": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "destination": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.7745807,
+        "lon": -79.2523591,
+        "location": "Scarborough, CANADA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CA",
+      "source": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 41.7714951,
+        "lon": -88.147999,
+        "location": "Naperville, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CA",
+      "source": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 26.3357326,
+        "lon": 78.3228882,
+        "location": "Malanpur, INDIA"
+      },
+      "weight": 6
+    },
+    {
+      "country": "CA",
+      "source": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "destination": {
+        "country": "",
+        "lat": 50.5146294,
+        "lon": 14.0512943,
+        "location": "Lovosice, undefined"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CA",
+      "source": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 50.8468332,
+        "lon": 17.4188859,
+        "location": "Skarbimierz-Osiedle, POLAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CA",
+      "source": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "destination": {
+        "country": "SK",
+        "countryName": "SLOVAKIA",
+        "lat": 48.1464009,
+        "lon": 17.1068781,
+        "location": "Bratislava, SLOVAKIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CA",
+      "source": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "destination": {
+        "country": "GR",
+        "countryName": "GREECE",
+        "lat": 38.0633654,
+        "lon": 23.7610318,
+        "location": "Metamorfosi, GREECE"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CA",
+      "source": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 52.62334,
+        "lon": 20.3755938,
+        "location": "Plonsk, POLAND"
+      },
+      "weight": 3
+    },
+    {
+      "country": "CA",
+      "source": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "destination": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.2921162,
+        "lon": -99.6557812,
+        "location": "Toluca de Lerdo, MEXICO"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CA",
+      "source": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CA",
+      "source": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "destination": {
+        "country": "AU",
+        "countryName": "AUSTRALIA",
+        "lat": -37.8153434,
+        "lon": 144.9632276,
+        "location": "Melbourne, AUSTRALIA"
+      },
+      "weight": 1
+    }
+  ],
+  "SK": [
+    {
+      "country": "SK",
+      "source": {
+        "country": "SK",
+        "countryName": "SLOVAKIA",
+        "lat": 35.670018,
+        "lon": -95.158994,
+        "location": "Central Europe Only, SLOVAKIA"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "SK",
+      "source": {
+        "country": "SK",
+        "countryName": "SLOVAKIA",
+        "lat": 48.1464009,
+        "lon": 17.1068781,
+        "location": "Bratislava, SLOVAKIA"
+      },
+      "destination": {
+        "country": "SK",
+        "countryName": "SLOVAKIA",
+        "lat": 48.1464009,
+        "lon": 17.1068781,
+        "location": "Bratislava, SLOVAKIA"
+      },
+      "weight": 10
+    },
+    {
+      "country": "SK",
+      "source": {
+        "country": "SK",
+        "countryName": "SLOVAKIA",
+        "lat": 48.1464009,
+        "lon": 17.1068781,
+        "location": "Bratislava, SLOVAKIA"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "SK",
+      "source": {
+        "country": "SK",
+        "countryName": "SLOVAKIA",
+        "lat": 35.670018,
+        "lon": -95.158994,
+        "location": "Central Europe Only, SLOVAKIA"
+      },
+      "destination": {
+        "country": "EG",
+        "countryName": "EGYPT",
+        "lat": 30.0434879,
+        "lon": 31.2352919,
+        "location": "Cairo, EGYPT"
+      },
+      "weight": 1
+    },
+    {
+      "country": "SK",
+      "source": {
+        "country": "SK",
+        "countryName": "SLOVAKIA",
+        "lat": 48.1464009,
+        "lon": 17.1068781,
+        "location": "Bratislava, SLOVAKIA"
+      },
+      "destination": {
+        "country": "PE",
+        "countryName": "PERU",
+        "lat": -12.0579766,
+        "lon": -77.037134,
+        "location": "Lima, PERU"
+      },
+      "weight": 2
+    },
+    {
+      "country": "SK",
+      "source": {
+        "country": "SK",
+        "countryName": "SLOVAKIA",
+        "lat": 48.1464009,
+        "lon": 17.1068781,
+        "location": "Bratislava, SLOVAKIA"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 18.9690472,
+        "lon": 72.8211807,
+        "location": "Mumbai, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "SK",
+      "source": {
+        "country": "SK",
+        "countryName": "SLOVAKIA",
+        "lat": 48.1464009,
+        "lon": 17.1068781,
+        "location": "Bratislava, SLOVAKIA"
+      },
+      "destination": {
+        "country": "EG",
+        "countryName": "EGYPT",
+        "lat": 30.0434879,
+        "lon": 31.2352919,
+        "location": "Cairo, EGYPT"
+      },
+      "weight": 2
+    }
+  ],
+  "ES": [
+    {
+      "country": "ES",
+      "source": {
+        "country": "ES",
+        "countryName": "SPAIN",
+        "lat": 40.4166909,
+        "lon": -3.7003454,
+        "location": "Madrid, SPAIN"
+      },
+      "destination": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "weight": 1
+    },
+    {
+      "country": "ES",
+      "source": {
+        "country": "ES",
+        "countryName": "SPAIN",
+        "lat": 42.5151255,
+        "lon": -2.3716077,
+        "location": "Viana, Navarra, SPAIN"
+      },
+      "destination": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "weight": 1
+    },
+    {
+      "country": "ES",
+      "source": {
+        "country": "ES",
+        "countryName": "SPAIN",
+        "lat": 40.4166909,
+        "lon": -3.7003454,
+        "location": "Madrid, SPAIN"
+      },
+      "destination": {
+        "country": "IT",
+        "countryName": "ITALY",
+        "lat": 45.4636183,
+        "lon": 9.1881156,
+        "location": "Milan, ITALY"
+      },
+      "weight": 1
+    },
+    {
+      "country": "ES",
+      "source": {
+        "country": "ES",
+        "countryName": "SPAIN",
+        "lat": 42.5151255,
+        "lon": -2.3716077,
+        "location": "Viana, Navarra, SPAIN"
+      },
+      "destination": {
+        "country": "CR",
+        "countryName": "COSTA RICA",
+        "lat": 9.9331345,
+        "lon": -84.0797794,
+        "location": "San Jose, COSTA RICA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "ES",
+      "source": {
+        "country": "ES",
+        "countryName": "SPAIN",
+        "lat": 42.5151255,
+        "lon": -2.3716077,
+        "location": "Viana, Navarra, SPAIN"
+      },
+      "destination": {
+        "country": "BE",
+        "countryName": "BELGIUM",
+        "lat": 51.0289371,
+        "lon": 4.477941,
+        "location": "Mechelen, BELGIUM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "ES",
+      "source": {
+        "country": "ES",
+        "countryName": "SPAIN",
+        "lat": 40.4166909,
+        "lon": -3.7003454,
+        "location": "Madrid, SPAIN"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 51.5380493,
+        "lon": 20.0085251,
+        "location": "Tomaszow Mazowiecki, POLAND"
+      },
+      "weight": 1
+    }
+  ],
+  "AT": [
+    {
+      "country": "AT",
+      "source": {
+        "country": "AT",
+        "countryName": "AUSTRIA",
+        "lat": 47.1555841,
+        "lon": 9.8207394,
+        "location": "Bludenz, AUSTRIA"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 30.9383087,
+        "lon": 76.815288,
+        "location": "Baddi, INDIA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "AT",
+      "source": {
+        "country": "AT",
+        "countryName": "AUSTRIA",
+        "lat": 47.1555841,
+        "lon": 9.8207394,
+        "location": "Bludenz, AUSTRIA"
+      },
+      "destination": {
+        "country": "CN",
+        "countryName": "CHINA",
+        "lat": 33.6375983,
+        "lon": 116.9769588,
+        "location": "Suzhou, CHINA"
+      },
+      "weight": 1
+    }
+  ],
+  "NG": [
+    {
+      "country": "NG",
+      "source": {
+        "country": "NG",
+        "countryName": "NIGERIA",
+        "lat": 6.4931107,
+        "lon": 3.3841634,
+        "location": "Lagos, NIGERIA"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 50.789124,
+        "lon": -3.652245,
+        "location": "Crediton, UNITED KINGDOM"
+      },
+      "weight": 1
+    }
+  ],
+  "CN": [
+    {
+      "country": "CN",
+      "source": {
+        "country": "CN",
+        "countryName": "CHINA",
+        "lat": 33.6375983,
+        "lon": 116.9769588,
+        "location": "Suzhou, CHINA"
+      },
+      "destination": {
+        "country": "AU",
+        "countryName": "AUSTRALIA",
+        "lat": -35.8683286,
+        "lon": 146.241889,
+        "location": "Ringwood, AUSTRALIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CN",
+      "source": {
+        "country": "CN",
+        "countryName": "CHINA",
+        "lat": 33.6375983,
+        "lon": 116.9769588,
+        "location": "Suzhou, CHINA"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4304509,
+        "lon": -1.9342949,
+        "location": "Bournville, UK, UNITED KINGDOM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CN",
+      "source": {
+        "country": "CN",
+        "countryName": "CHINA",
+        "lat": 33.6375983,
+        "lon": 116.9769588,
+        "location": "Suzhou, CHINA"
+      },
+      "destination": {
+        "country": "CN",
+        "countryName": "CHINA",
+        "lat": 33.6375983,
+        "lon": 116.9769588,
+        "location": "Suzhou, CHINA"
+      },
+      "weight": 10
+    },
+    {
+      "country": "CN",
+      "source": {
+        "country": "CN",
+        "countryName": "CHINA",
+        "lat": 33.6375983,
+        "lon": 116.9769588,
+        "location": "Suzhou, CHINA"
+      },
+      "destination": {
+        "country": "CH",
+        "countryName": "SWITZERLAND",
+        "lat": 47.4225206,
+        "lon": 8.56099,
+        "location": "Glattpark, SWITZERLAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CN",
+      "source": {
+        "country": "CN",
+        "countryName": "CHINA",
+        "lat": 33.6375983,
+        "lon": 116.9769588,
+        "location": "Suzhou, CHINA"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 19.1997061,
+        "lon": 72.9646011,
+        "location": "Thane, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CN",
+      "source": {
+        "country": "CN",
+        "countryName": "CHINA",
+        "lat": 33.6375983,
+        "lon": 116.9769588,
+        "location": "Suzhou, CHINA"
+      },
+      "destination": {
+        "country": "BG",
+        "countryName": "BULGARIA",
+        "lat": 42.6964917,
+        "lon": 23.3260106,
+        "location": "MEU, BULGARIA"
+      },
+      "weight": 1
+    }
+  ],
+  "FR": [
+    {
+      "country": "FR",
+      "source": {
+        "country": "FR",
+        "countryName": "FRANCE",
+        "lat": 48.7308001,
+        "lon": 2.1742453,
+        "location": "Saclay, FRANCE"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 19.1997061,
+        "lon": 72.9646011,
+        "location": "Thane, INDIA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "FR",
+      "source": {
+        "country": "FR",
+        "countryName": "FRANCE",
+        "lat": 48.7308001,
+        "lon": 2.1742453,
+        "location": "Saclay, FRANCE"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4304509,
+        "lon": -1.9342949,
+        "location": "Bournville, UK, UNITED KINGDOM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "FR",
+      "source": {
+        "country": "FR",
+        "countryName": "FRANCE",
+        "lat": 48.7308001,
+        "lon": 2.1742453,
+        "location": "Saclay, FRANCE"
+      },
+      "destination": {
+        "country": "CN",
+        "countryName": "CHINA",
+        "lat": 33.6375983,
+        "lon": 116.9769588,
+        "location": "Suzhou, CHINA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "FR",
+      "source": {
+        "country": "FR",
+        "countryName": "FRANCE",
+        "lat": 48.7308001,
+        "lon": 2.1742453,
+        "location": "Saclay, FRANCE"
+      },
+      "destination": {
+        "country": "VN",
+        "countryName": "VIET NAM",
+        "lat": 9.2901338,
+        "lon": 105.726941,
+        "location": "Binh Hoa Ward, VIET NAM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "FR",
+      "source": {
+        "country": "FR",
+        "countryName": "FRANCE",
+        "lat": 48.7308001,
+        "lon": 2.1742453,
+        "location": "Saclay, FRANCE"
+      },
+      "destination": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "weight": 2
+    },
+    {
+      "country": "FR",
+      "source": {
+        "country": "FR",
+        "countryName": "FRANCE",
+        "lat": 48.7991176,
+        "lon": 2.2624685,
+        "location": "Clamart, FRANCE"
+      },
+      "destination": {
+        "country": "CN",
+        "countryName": "CHINA",
+        "lat": 33.6375983,
+        "lon": 116.9769588,
+        "location": "Suzhou, CHINA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "FR",
+      "source": {
+        "country": "FR",
+        "countryName": "FRANCE",
+        "lat": 48.7308001,
+        "lon": 2.1742453,
+        "location": "Saclay, FRANCE"
+      },
+      "destination": {
+        "country": "TR",
+        "countryName": "TURKEY",
+        "lat": 41.0129952,
+        "lon": 28.9747973,
+        "location": "Istanbul, TURKEY"
+      },
+      "weight": 1
+    }
+  ],
+  "CR": [
+    {
+      "country": "CR",
+      "source": {
+        "country": "CR",
+        "countryName": "COSTA RICA",
+        "lat": 9.9331345,
+        "lon": -84.0797794,
+        "location": "San Jose, COSTA RICA"
+      },
+      "destination": {
+        "country": "CR",
+        "countryName": "COSTA RICA",
+        "lat": 9.9331345,
+        "lon": -84.0797794,
+        "location": "San Jose, COSTA RICA"
+      },
+      "weight": 10
+    }
+  ],
+  "TR": [
+    {
+      "country": "TR",
+      "source": {
+        "country": "TR",
+        "countryName": "TURKEY",
+        "lat": 40.797195,
+        "lon": 29.436931,
+        "location": "Gebze, TURKEY"
+      },
+      "destination": {
+        "country": "VN",
+        "countryName": "VIET NAM",
+        "lat": 9.2901338,
+        "lon": 105.726941,
+        "location": "Binh Hoa Ward, VIET NAM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "TR",
+      "source": {
+        "country": "TR",
+        "countryName": "TURKEY",
+        "lat": 40.797195,
+        "lon": 29.436931,
+        "location": "Gebze, TURKEY"
+      },
+      "destination": {
+        "country": "ZA",
+        "countryName": "SOUTH AFRICA",
+        "lat": -26.201452,
+        "lon": 28.045488,
+        "location": "Johannesburg, SOUTH AFRICA"
+      },
+      "weight": 1
+    }
+  ],
+  "CZ": [
+    {
+      "country": "CZ",
+      "source": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 50.0878114,
+        "lon": 14.4204598,
+        "location": "Prague, CZECH REPUBLIC"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 18.9690472,
+        "lon": 72.8211807,
+        "location": "Mumbai, INDIA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "CZ",
+      "source": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 50.0878114,
+        "lon": 14.4204598,
+        "location": "Prague, CZECH REPUBLIC"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "weight": 3
+    },
+    {
+      "country": "CZ",
+      "source": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 50.0878114,
+        "lon": 14.4204598,
+        "location": "Prague, CZECH REPUBLIC"
+      },
+      "destination": {
+        "country": "CR",
+        "countryName": "COSTA RICA",
+        "lat": 9.9331345,
+        "lon": -84.0797794,
+        "location": "San Jose, COSTA RICA"
+      },
+      "weight": 4
+    },
+    {
+      "country": "CZ",
+      "source": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 50.0878114,
+        "lon": 14.4204598,
+        "location": "Prague, CZECH REPUBLIC"
+      },
+      "destination": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -23.5486657,
+        "lon": -46.6382522,
+        "location": "Sao Paulo, BRAZIL"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CZ",
+      "source": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 50.0878114,
+        "lon": 14.4204598,
+        "location": "Prague, CZECH REPUBLIC"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 36.19585,
+        "lon": -115.114574,
+        "location": "N/A, UNITED STATES"
+      },
+      "weight": 4
+    },
+    {
+      "country": "CZ",
+      "source": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 50.0878114,
+        "lon": 14.4204598,
+        "location": "Prague, CZECH REPUBLIC"
+      },
+      "destination": {
+        "country": "",
+        "lat": 41.0129952,
+        "lon": 28.9747973,
+        "location": "Istanbul, undefined"
+      },
+      "weight": 7
+    },
+    {
+      "country": "CZ",
+      "source": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 50.0878114,
+        "lon": 14.4204598,
+        "location": "Prague, CZECH REPUBLIC"
+      },
+      "destination": {
+        "country": "FR",
+        "countryName": "FRANCE",
+        "lat": 48.7991176,
+        "lon": 2.2624685,
+        "location": "Clamart, FRANCE"
+      },
+      "weight": 2
+    },
+    {
+      "country": "CZ",
+      "source": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 50.0878114,
+        "lon": 14.4204598,
+        "location": "Prague, CZECH REPUBLIC"
+      },
+      "destination": {
+        "country": "IT",
+        "countryName": "ITALY",
+        "lat": 45.4636183,
+        "lon": 9.1881156,
+        "location": "Milan, ITALY"
+      },
+      "weight": 3
+    },
+    {
+      "country": "CZ",
+      "source": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 50.0878114,
+        "lon": 14.4204598,
+        "location": "Prague, CZECH REPUBLIC"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CZ",
+      "source": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 50.0878114,
+        "lon": 14.4204598,
+        "location": "Prague, CZECH REPUBLIC"
+      },
+      "destination": {
+        "country": "PL",
+        "countryName": "POLAND",
+        "lat": 52.2349786,
+        "lon": 21.0084924,
+        "location": "Warszawa, POLAND"
+      },
+      "weight": 4
+    },
+    {
+      "country": "CZ",
+      "source": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 50.0878114,
+        "lon": 14.4204598,
+        "location": "Prague, CZECH REPUBLIC"
+      },
+      "destination": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 50.0878114,
+        "lon": 14.4204598,
+        "location": "Prague, CZECH REPUBLIC"
+      },
+      "weight": 10
+    },
+    {
+      "country": "CZ",
+      "source": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 50.0878114,
+        "lon": 14.4204598,
+        "location": "Prague, CZECH REPUBLIC"
+      },
+      "destination": {
+        "country": "AU",
+        "countryName": "AUSTRALIA",
+        "lat": -37.8323792,
+        "lon": 144.9604333,
+        "location": "South Melbourne, AUSTRALIA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "CZ",
+      "source": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 50.0878114,
+        "lon": 14.4204598,
+        "location": "Prague, CZECH REPUBLIC"
+      },
+      "destination": {
+        "country": "AT",
+        "countryName": "AUSTRIA",
+        "lat": 48.2092062,
+        "lon": 16.3727778,
+        "location": "Vienna, AUSTRIA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CZ",
+      "source": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 50.0878114,
+        "lon": 14.4204598,
+        "location": "Prague, CZECH REPUBLIC"
+      },
+      "destination": {
+        "country": "PH",
+        "countryName": "PHILIPPINES",
+        "lat": 14.4778938,
+        "lon": 121.028933,
+        "location": "Paranaque City, PHILIPPINES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CZ",
+      "source": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 50.0878114,
+        "lon": 14.4204598,
+        "location": "Prague, CZECH REPUBLIC"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "CZ",
+      "source": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 50.0878114,
+        "lon": 14.4204598,
+        "location": "Prague, CZECH REPUBLIC"
+      },
+      "destination": {
+        "country": "NO",
+        "countryName": "NORWAY",
+        "lat": 59.9138204,
+        "lon": 10.7387413,
+        "location": "Oslo, NORWAY"
+      },
+      "weight": 1
+    }
+  ],
+  "IT": [
+    {
+      "country": "IT",
+      "source": {
+        "country": "IT",
+        "countryName": "ITALY",
+        "lat": 45.4636183,
+        "lon": 9.1881156,
+        "location": "milan, ITALY"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 19.1997061,
+        "lon": 72.9646011,
+        "location": "Thane, INDIA"
+      },
+      "weight": 1
+    }
+  ],
+  "UA": [
+    {
+      "country": "UA",
+      "source": {
+        "country": "UA",
+        "countryName": "UKRAINE",
+        "lat": 50.4497495,
+        "lon": 30.5237178,
+        "location": "Kyiv, UKRAINE"
+      },
+      "destination": {
+        "country": "CZ",
+        "countryName": "CZECH REPUBLIC",
+        "lat": 50.0878114,
+        "lon": 14.4204598,
+        "location": "Prague, CZECH REPUBLIC"
+      },
+      "weight": 1
+    },
+    {
+      "country": "UA",
+      "source": {
+        "country": "UA",
+        "countryName": "UKRAINE",
+        "lat": 50.4497495,
+        "lon": 30.5237178,
+        "location": "Kyiv, UKRAINE"
+      },
+      "destination": {
+        "country": "ES",
+        "countryName": "SPAIN",
+        "lat": 41.5425435,
+        "lon": 2.2637794,
+        "location": "Montornes Del Valles, Barcelona, SPAIN"
+      },
+      "weight": 1
+    },
+    {
+      "country": "UA",
+      "source": {
+        "country": "UA",
+        "countryName": "UKRAINE",
+        "lat": 50.4497495,
+        "lon": 30.5237178,
+        "location": "Kyiv, UKRAINE"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 36.19585,
+        "lon": -115.114574,
+        "location": "N/A, UNITED STATES"
+      },
+      "weight": 1
+    }
+  ],
+  "": [
+    {
+      "country": "",
+      "source": {
+        "country": "",
+        "lat": 41.0129952,
+        "lon": 28.9747973,
+        "location": "Istanbul, undefined"
+      },
+      "destination": {
+        "country": "AU",
+        "countryName": "AUSTRALIA",
+        "lat": -37.8323792,
+        "lon": 144.9604333,
+        "location": "South Melbourne, AUSTRALIA"
+      },
+      "weight": 1
+    }
+  ],
+  "MA": [
+    {
+      "country": "MA",
+      "source": {
+        "country": "MA",
+        "countryName": "MOROCCO",
+        "lat": 33.5964565,
+        "lon": -7.615478,
+        "location": "Casablanca, MOROCCO"
+      },
+      "destination": {
+        "country": "MA",
+        "countryName": "MOROCCO",
+        "lat": 33.5964565,
+        "lon": -7.615478,
+        "location": "Casablanca, MOROCCO"
+      },
+      "weight": 10
+    },
+    {
+      "country": "MA",
+      "source": {
+        "country": "MA",
+        "countryName": "MOROCCO",
+        "lat": 33.5964565,
+        "lon": -7.615478,
+        "location": "Casablanca, MOROCCO"
+      },
+      "destination": {
+        "country": "AR",
+        "countryName": "ARGENTINA",
+        "lat": -34.697644,
+        "lon": -58.336019,
+        "location": "Thames, ARGENTINA"
+      },
+      "weight": 1
+    }
+  ],
+  "BG": [
+    {
+      "country": "BG",
+      "source": {
+        "country": "BG",
+        "countryName": "BULGARIA",
+        "lat": 42.9633117,
+        "lon": 23.3425761,
+        "location": "Svoge, BULGARIA"
+      },
+      "destination": {
+        "country": "EG",
+        "countryName": "EGYPT",
+        "lat": 30.0434879,
+        "lon": 31.2352919,
+        "location": "Cairo, EGYPT"
       },
       "weight": 1
     }
