@@ -1,0 +1,342 @@
+{
+  "ES": [
+    {
+      "country": "ES",
+      "source": {
+        "country": "ES",
+        "countryName": "SPAIN",
+        "lat": 40.4166909,
+        "lon": -3.7003454,
+        "location": "Madrid, SPAIN"
+      },
+      "destination": {
+        "country": "CH",
+        "countryName": "SWITZERLAND",
+        "lat": 47.3878126,
+        "lon": 8.5271038,
+        "location": "Zurich, SWITZERLAND"
+      },
+      "weight": 1
+    },
+    {
+      "country": "ES",
+      "source": {
+        "country": "ES",
+        "countryName": "SPAIN",
+        "lat": 40.4166909,
+        "lon": -3.7003454,
+        "location": "Madrid, SPAIN"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "weight": 1
+    }
+  ],
+  "GB": [
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 51.455041,
+        "lon": -0.9690884,
+        "location": "Reading, UNITED KINGDOM"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "weight": 10
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 19.1997061,
+        "lon": 72.9646011,
+        "location": "Thane, INDIA"
+      },
+      "weight": 1
+    }
+  ],
+  "US": [
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, USA, UNITED STATES"
+      },
+      "destination": {
+        "country": "SG",
+        "countryName": "SINGAPORE",
+        "lat": 1.2894365,
+        "lon": 103.8499802,
+        "location": "Singapore, SINGAPORE"
+      },
+      "weight": 1
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "destination": {
+        "country": "CN",
+        "countryName": "CHINA",
+        "lat": 33.6375983,
+        "lon": 116.9769588,
+        "location": "Suzhou, CHINA"
+      },
+      "weight": 3
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "weight": 10
+    },
+    {
+      "country": "US",
+      "source": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, USA, UNITED STATES"
+      },
+      "destination": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "weight": 1
+    }
+  ],
+  "FR": [
+    {
+      "country": "FR",
+      "source": {
+        "country": "FR",
+        "countryName": "FRANCE",
+        "lat": 48.7308001,
+        "lon": 2.1742453,
+        "location": "Saclay, FRANCE"
+      },
+      "destination": {
+        "country": "US",
+        "countryName": "UNITED STATES",
+        "lat": 40.825873,
+        "lon": -74.360771,
+        "location": "East Hanover, UNITED STATES"
+      },
+      "weight": 2
+    }
+  ],
+  "SG": [
+    {
+      "country": "SG",
+      "source": {
+        "country": "SG",
+        "countryName": "SINGAPORE",
+        "lat": 1.2894365,
+        "lon": 103.8499802,
+        "location": "Singapore, SINGAPORE"
+      },
+      "destination": {
+        "country": "SG",
+        "countryName": "SINGAPORE",
+        "lat": 1.2894365,
+        "lon": 103.8499802,
+        "location": "Singapore, SINGAPORE"
+      },
+      "weight": 10
+    }
+  ],
+  "AU": [
+    {
+      "country": "AU",
+      "source": {
+        "country": "AU",
+        "countryName": "AUSTRALIA",
+        "lat": -35.8683286,
+        "lon": 146.241889,
+        "location": "Ringwood, AUSTRALIA"
+      },
+      "destination": {
+        "country": "SG",
+        "countryName": "SINGAPORE",
+        "lat": 1.2894365,
+        "lon": 103.8499802,
+        "location": "Singapore, SINGAPORE"
+      },
+      "weight": 1
+    },
+    {
+      "country": "AU",
+      "source": {
+        "country": "AU",
+        "countryName": "AUSTRALIA",
+        "lat": -35.8683286,
+        "lon": 146.241889,
+        "location": "Ringwood, AUSTRALIA"
+      },
+      "destination": {
+        "country": "CN",
+        "countryName": "CHINA",
+        "lat": 33.6375983,
+        "lon": 116.9769588,
+        "location": "Suzhou, CHINA"
+      },
+      "weight": 1
+    }
+  ],
+  "CA": [
+    {
+      "country": "CA",
+      "source": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "destination": {
+        "country": "CA",
+        "countryName": "CANADA",
+        "lat": 43.6518927,
+        "lon": -79.381713,
+        "location": "Toronto, CANADA"
+      },
+      "weight": 10
+    }
+  ],
+  "BR": [
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "weight": 10
+    },
+    {
+      "country": "BR",
+      "source": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 19.1997061,
+        "lon": 72.9646011,
+        "location": "Thane, INDIA"
+      },
+      "weight": 1
+    }
+  ]
+}
