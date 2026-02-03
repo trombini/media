@@ -680,24 +680,6 @@
         "location": "Curitiba, BRAZIL"
       },
       "destination": {
-        "country": "MA",
-        "countryName": "MOROCCO",
-        "lat": 41.696504,
-        "lon": -82.786161,
-        "location": "Middle East, North Africa & pk, MOROCCO"
-      },
-      "weight": 1
-    },
-    {
-      "country": "BR",
-      "source": {
-        "country": "BR",
-        "countryName": "BRAZIL",
-        "lat": -25.4283563,
-        "lon": -49.2732515,
-        "location": "Curitiba, BRAZIL"
-      },
-      "destination": {
         "country": "BR",
         "countryName": "BRAZIL",
         "lat": -23.5486657,
@@ -1955,8 +1937,8 @@
       "source": {
         "country": "MX",
         "countryName": "MEXICO",
-        "lat": 26.289854,
-        "lon": -98.295147,
+        "lat": 21.013922,
+        "lon": -89.606559,
         "location": "N/A, MEXICO"
       },
       "destination": {
