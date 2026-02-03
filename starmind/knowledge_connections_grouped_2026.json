@@ -1,0 +1,154 @@
+{
+  "BE": [
+    {
+      "country": "BE",
+      "source": {
+        "country": "BE",
+        "countryName": "BELGIUM",
+        "lat": 51.1778861,
+        "lon": 4.8357935,
+        "location": "Herentals, BELGIUM"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "weight": 1
+    }
+  ],
+  "BH": [
+    {
+      "country": "BH",
+      "source": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "weight": 3
+    },
+    {
+      "country": "BH",
+      "source": {
+        "country": "BH",
+        "countryName": "BAHRAIN",
+        "lat": 26.230053,
+        "lon": 50.6556183,
+        "location": "Al Hidd, BAHRAIN"
+      },
+      "destination": {
+        "country": "BR",
+        "countryName": "BRAZIL",
+        "lat": -25.4283563,
+        "lon": -49.2732515,
+        "location": "Curitiba, BRAZIL"
+      },
+      "weight": 1
+    }
+  ],
+  "GB": [
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "SG",
+        "countryName": "SINGAPORE",
+        "lat": 1.2894365,
+        "lon": 103.8499802,
+        "location": "Singapore, SINGAPORE"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "IN",
+        "countryName": "INDIA",
+        "lat": 13.2195,
+        "lon": 79.103302,
+        "location": "Chittoor District, INDIA"
+      },
+      "weight": 2
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "EG",
+        "countryName": "EGYPT",
+        "lat": 30.0434879,
+        "lon": 31.2352919,
+        "location": "Cairo, EGYPT"
+      },
+      "weight": 1
+    },
+    {
+      "country": "GB",
+      "source": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "destination": {
+        "country": "GB",
+        "countryName": "UNITED KINGDOM",
+        "lat": 52.4828994,
+        "lon": -1.8934623,
+        "location": "Birmingham, UNITED KINGDOM"
+      },
+      "weight": 4
+    }
+  ],
+  "MX": [
+    {
+      "country": "MX",
+      "source": {
+        "country": "MX",
+        "countryName": "MEXICO",
+        "lat": 19.0436786,
+        "lon": -98.1990388,
+        "location": "Puebla, MEXICO"
+      },
+      "destination": {
+        "country": "EG",
+        "countryName": "EGYPT",
+        "lat": 30.0434879,
+        "lon": 31.2352919,
+        "location": "Cairo, EGYPT"
+      },
+      "weight": 1
+    }
+  ]
+}
