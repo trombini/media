@@ -286,7 +286,7 @@
         "lon": 31.2352919,
         "location": "Cairo, EGYPT"
       },
-      "weight": 2
+      "weight": 1
     },
     {
       "country": "GB",
@@ -318,8 +318,8 @@
       "destination": {
         "country": "SK",
         "countryName": "SLOVAKIA",
-        "lat": 35.670018,
-        "lon": -95.158994,
+        "lat": 47.7580511,
+        "lon": 18.1296157,
         "location": "Central Europe Only, SLOVAKIA"
       },
       "weight": 1
@@ -484,7 +484,7 @@
         "lon": 79.103302,
         "location": "Chittoor District, INDIA"
       },
-      "weight": 9
+      "weight": 7
     },
     {
       "country": "GB",
@@ -862,7 +862,7 @@
         "lon": 103.8499802,
         "location": "Singapore, SINGAPORE"
       },
-      "weight": 4
+      "weight": 3
     },
     {
       "country": "GB",
@@ -1711,8 +1711,8 @@
       "source": {
         "country": "MX",
         "countryName": "MEXICO",
-        "lat": 26.289854,
-        "lon": -98.295147,
+        "lat": 21.013922,
+        "lon": -89.606559,
         "location": "N/A, MEXICO"
       },
       "destination": {
@@ -1920,24 +1920,6 @@
         "location": "East Hanover, UNITED STATES"
       },
       "weight": 1
-    },
-    {
-      "country": "MX",
-      "source": {
-        "country": "MX",
-        "countryName": "MEXICO",
-        "lat": 19.0436786,
-        "lon": -98.1990388,
-        "location": "Puebla, MEXICO"
-      },
-      "destination": {
-        "country": "EG",
-        "countryName": "EGYPT",
-        "lat": 30.0434879,
-        "lon": 31.2352919,
-        "location": "Cairo, EGYPT"
-      },
-      "weight": 1
     }
   ],
   "BE": [
@@ -1975,7 +1957,7 @@
         "lon": 79.103302,
         "location": "Chittoor District, INDIA"
       },
-      "weight": 2
+      "weight": 1
     }
   ],
   "BR": [
@@ -2715,8 +2697,8 @@
       "destination": {
         "country": "SK",
         "countryName": "SLOVAKIA",
-        "lat": 35.670018,
-        "lon": -95.158994,
+        "lat": 47.7580511,
+        "lon": 18.1296157,
         "location": "Central Europe Only, SLOVAKIA"
       },
       "weight": 1
@@ -3038,8 +3020,8 @@
       "source": {
         "country": "IN",
         "countryName": "INDIA",
-        "lat": 27.5157309,
-        "lon": -99.4649308,
+        "lat": 31.3815556,
+        "lon": 75.5404646,
         "location": "N/A, INDIA"
       },
       "destination": {
@@ -3128,8 +3110,8 @@
       "source": {
         "country": "IN",
         "countryName": "INDIA",
-        "lat": 27.5157309,
-        "lon": -99.4649308,
+        "lat": 31.3815556,
+        "lon": 75.5404646,
         "location": "N/A, INDIA"
       },
       "destination": {
@@ -3433,7 +3415,7 @@
         "lon": 79.103302,
         "location": "Chittoor District, INDIA"
       },
-      "weight": 4
+      "weight": 1
     },
     {
       "country": "BH",
@@ -3505,7 +3487,7 @@
         "lon": -49.2732515,
         "location": "Curitiba, BRAZIL"
       },
-      "weight": 2
+      "weight": 1
     },
     {
       "country": "BH",
