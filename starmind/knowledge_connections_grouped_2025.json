@@ -5,16 +5,16 @@
       "source": {
         "country": "US",
         "countryName": "UNITED STATES",
-        "lat": 35.280138,
-        "lon": -114.346902,
-        "location": "Golden Valley, UNITED STATES"
+        "lat": 30.078864,
+        "lon": -95.444444,
+        "location": "Spring, UNITED STATES"
       },
       "destination": {
         "country": "US",
         "countryName": "UNITED STATES",
-        "lat": 35.280138,
-        "lon": -114.346902,
-        "location": "Golden Valley, UNITED STATES"
+        "lat": 30.078864,
+        "lon": -95.444444,
+        "location": "Spring, UNITED STATES"
       },
       "weight": 4
     },
@@ -23,114 +23,18 @@
       "source": {
         "country": "US",
         "countryName": "UNITED STATES",
-        "lat": 35.280138,
-        "lon": -114.346902,
-        "location": "Golden Valley, UNITED STATES"
+        "lat": 29.732081,
+        "lon": -94.967821,
+        "location": "Baytown, UNITED STATES"
       },
       "destination": {
-        "country": "IN",
-        "countryName": "INDIA",
-        "lat": 19.1238155,
-        "lon": 72.9126101,
-        "location": "Powai, Mumbai, INDIA"
-      },
-      "weight": 3
-    },
-    {
-      "country": "US",
-      "source": {
         "country": "US",
         "countryName": "UNITED STATES",
-        "lat": 35.280138,
-        "lon": -114.346902,
-        "location": "Golden Valley, UNITED STATES"
-      },
-      "destination": {
-        "country": "ES",
-        "countryName": "SPAIN",
-        "lat": 42.3327358,
-        "lon": -1.9334216,
-        "location": "San Adrián, SPAIN"
-      },
-      "weight": 2
-    },
-    {
-      "country": "US",
-      "source": {
-        "country": "US",
-        "countryName": "UNITED STATES",
-        "lat": 35.280138,
-        "lon": -114.346902,
-        "location": "Golden Valley, UNITED STATES"
-      },
-      "destination": {
-        "country": "IN",
-        "countryName": "INDIA",
-        "lat": 18.9690472,
-        "lon": 72.8211807,
-        "location": "Mumbai, INDIA"
-      },
-      "weight": 2
-    }
-  ],
-  "BR": [
-    {
-      "country": "BR",
-      "source": {
-        "country": "BR",
-        "countryName": "BRAZIL",
-        "lat": -23.694445,
-        "lon": -46.565796,
-        "location": "SÃO BERNARDO DO CAMPO, BRAZIL"
-      },
-      "destination": {
-        "country": "BR",
-        "countryName": "BRAZIL",
-        "lat": -23.694445,
-        "lon": -46.565796,
-        "location": "SÃO BERNARDO DO CAMPO, BRAZIL"
+        "lat": 29.732081,
+        "lon": -94.967821,
+        "location": "Baytown, UNITED STATES"
       },
       "weight": 4
-    }
-  ],
-  "IN": [
-    {
-      "country": "IN",
-      "source": {
-        "country": "IN",
-        "countryName": "INDIA",
-        "lat": 19.1238155,
-        "lon": 72.9126101,
-        "location": "Powai, Mumbai, INDIA"
-      },
-      "destination": {
-        "country": "IN",
-        "countryName": "INDIA",
-        "lat": 19.1238155,
-        "lon": 72.9126101,
-        "location": "Powai, Mumbai, INDIA"
-      },
-      "weight": 4
-    }
-  ],
-  "FR": [
-    {
-      "country": "FR",
-      "source": {
-        "country": "FR",
-        "countryName": "FRANCE",
-        "lat": 48.8338299,
-        "lon": 2.2432324,
-        "location": "BOULOGNE BILLANCOURT, FRANCE"
-      },
-      "destination": {
-        "country": "US",
-        "countryName": "UNITED STATES",
-        "lat": 35.280138,
-        "lon": -114.346902,
-        "location": "Golden Valley, UNITED STATES"
-      },
-      "weight": 1
     }
   ]
 }
