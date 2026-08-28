@@ -3,7 +3,18 @@
   "contract": "ZQU6",
   "currentRate": "350-375",
   "effr": 3.6975,
+  "targetLower": 3.50,
+  "targetUpper": 3.75,
   "ease": 0.0,
   "noChange": 40.5,
-  "hike": 59.5
+  "hike": 59.5,
+  "updatedAt": "2026-08-28T21:00:29Z",
+  "settlements": [
+    {
+      "month": "30 Sep 2026",
+      "settle": 96.3025,
+      "volume": "49,870",
+      "openInterest": "228,468"
+    }
+  ]
 }
